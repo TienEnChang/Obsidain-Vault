@@ -1,0 +1,64 @@
+word
+- 股東/業主: shareholder/owner
+- 總帳/帳簿: ledger/account
+- 科目: item
+- 餘額: balance
+- 過帳: post
+- 工作底稿: worksheet
+- 毛利/淨利: revenue/net income
+- 分錄: entry
+- 無形資產: intangible asset
+- 流動資產: current asset
+
+what is?
+- accounting process
+	- identify, record, communicate
+- user
+	- internal: manager
+	- external: shareholder, tax agency, employee?
+- standards
+	- US:            FASB
+	- International: IASB
+- language
+	- US:            GAAP
+	- International: IFRS
+- historical cost principle
+- tax accountant (public, private)
+
+what is?
+- underlining
+	- 1-line: $\sum$ above = below
+	- 2-line: end result
+- dollar sign $
+	- once per column + end result
+	- (v) statements, trial balance
+	- (x) journal, ledger
+- balance
+	- debit  balance = debit > credit
+	- credit balance = debit < credit (overdrawn)
+	- normal balance
+		- A = ↑Dr.  L = ↑Cr.
+		- S = ↑Cr.  D = ↑Dr. (RE = ↑Cr.)
+		- R = ↑Cr.  X = ↑Dr.
+- transaction record
+	- Analyze: Account? Dr./Cr.? $\_?
+	- Journal: for Dr./Cr.
+	- Ledger:  for Account       (附有chart of accounts)
+- record form
+	- for all:             Date  Title+Expl  Ref.Page
+	- journal vs. ledger:  Dr. Cr. / Dr. Cr. Balance (依序填寫)
+	- simple vs. compound: 1-Dr. 1-Cr. / n-Dr. n-Cr.
+- chart of accounts
+	- for:   all-accounts $\to$ ref.page
+	- order: A, L, E(S, D) $\to$ R, X
+	- gaps:  retained for new accounts
+- trial balance
+	- for:   all-accounts $\to$ $\sum$ Dr. = $\sum$ Cr.
+	- undetectable errors: 
+		- transaction not recorded / duplicates
+		- post to a wrong account
+	- error cases
+		- 1, 10, 100: number: $\pm$.0
+		- div. 9:     number: reversed order
+		- div. 2:     wrong column
+		- others:     posting omitted

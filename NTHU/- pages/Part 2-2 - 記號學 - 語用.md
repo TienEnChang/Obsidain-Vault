@@ -1,0 +1,59 @@
+-
+- [ Pragmatics 語用 ]
+-
+- 語用：語言的功能 / 用途
+-
+- 語言基本功能
+	- 認知
+		- 描述 descriptive
+		- 推論 inference      (因果)
+		- 詢問 inquiry
+	- 非認知 (1st person)
+		- 情緒表達 emotional expression
+		- 命令 + 請求 imperative
+		- 規範 norm              (廣)
+		- 指引 prescriptive  (窄)
+			- 非強制 = 推薦
+			- 強制 = 有罰則
+	- {可複合使用 combine}
+-
+- 恰當性
+	- 描述：true / false
+	- 推論：correct / incorrect
+		- 歸納
+		- 演譯：valid / invalid
+		- 預測：successful / failed
+	- ==
+	- 情感表達 & 祈使：sincere / not sincere
+	- 指導 & 規範：
+		- right / wrong
+		- good / bad
+		- agree / disagree
+-
+- 真理觀 theory of truth
+	- 符應 correspondence / factual => truth
+	- 融貫 coherence / valid => truth
+	- 遵循 convention => truth
+-
+- 因果推論 causal inference
+	- David Hume
+	- J. L. Mackie: cause = INUS condition 
+	  { insufficient, but necessary part of an unnecessary but sufficient condition }
+	- J. S. Mill: 求同法, 求異法, 並用法, 剩餘法, 共變法
+-
+- 語意 / 語用分析
+	- by 目的
+		- 分析：情境 / 脈絡、傳達意義
+		- 消除：歧義、含混
+		- 評判：恰當性
+		- 增進：精確性↑、可靠性↑
+	- by 步驟
+		- 分析
+			- what kind of 意義空間？
+			- what 情境 / 脈絡？
+			- which 語言功能？
+		- 消除
+			- 歧義：確立 which 意義
+			- 含混：劃定 what 範圍
+		- 評判
+		- 增進

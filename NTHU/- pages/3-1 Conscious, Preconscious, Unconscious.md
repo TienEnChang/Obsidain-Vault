@@ -1,0 +1,15 @@
+- Sub-states of mind
+	- unconscious:  aware (x) , recall (x)
+	- preconscious:  aware (x) , recall (v)
+	- conscious:  aware (v)
+-
+- Consciousness
+	- def
+		- is:  feeling + content of awareness
+		- is not:  sleeping / fainted
+	- phenomenon
+		- priming
+			- node =(activate)> other nodes (誘發, 誘導)
+		- tip-of-the-tongue
+			- general:  know stored before
+			- specifics:  can't recall

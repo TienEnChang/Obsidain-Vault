@@ -1,0 +1,162 @@
+-
+- Reference
+	- [Heidegger's Basic Phenomenology of Things | by Bradley Gearhart | Medium](https://bradleygearhart.medium.com/heideggers-basic-phenomenology-of-things-1aad87cd6228)
+	- [海德格Heidegger - 華文哲學百科 (ccu.edu.tw)](https://mephilosophy.ccu.edu.tw/entry.php?entry_name=%E6%B5%B7%E5%BE%B7%E6%A0%BC)
+	-
+-
+- Requriement
+	- (1)
+	- 1.5 頁起
+	- 短篇闡述性文章、闡明思想理論
+	- 將課堂講融會貫通 or 就閱讀材料的整理
+	- (2)
+	- 認同 or 不認同？ why？
+-
+- Guideline
+	- 議題 / 問題 => 立場 / 論題：是...？ => 論證
+	- 可寫：表達立場、批評論證過程、思想詮釋
+	- 方向
+		- 找尋：時代/國度導向、學派導向、人物導向、著作導向、學說導向、問題導向
+		- 收窄：選定文本，就其中探討
+		- 撰題
+	- 建議
+		- 針對小議題提出論點與充分解釋
+-
+- The 2-step method (CrashCourse)
+	- 1. Try to understand / grasp the concept
+	  2. Do critical evaluation (on his / yours)
+-
+- Goal of philosophy:  do critical thinking
+-
+- Nature / Essense vs. Existence
+	- nature / essense
+		- => descriptive
+		- => metaphysics / epistemology (何謂真理？如何認識真理？)
+		- => natural science / neural science
+		- => perception
+		- => intentionality / lived body
+		- => pragmatism
+	- existence
+		- => normative
+		- => value theory (ethics)
+		- => social / behavior science
+		- => equipment
+-
+- Existentialism
+	- we are free / value is subjective
+	- morality, kant
+		- social restriction, obligation
+- Lived Body
+	- 反對 心物二元論 (形上學)
+	- 主體 / 自由 => “肉身” => 客體 / 命定
+	- equipment = quasi-body?
+-
+- Heidegger
+	- phenomenology
+	- existentialism
+	- Kant's morallity
+	- instrumentalism
+-
+- ---
+-
+- equipment
+	- working:  ready-to-hand
+	- broken:  unready-to-hand => present at hand
+-
+- 工具 => 目的 / 工具 => 目的 ...
+- resource => resource => resource
+	- depletion
+	- replenishment
+-
+- Dasein’s endless concern.
+-
+- 相較於康德說「你應該」，存在主義更去問「你能不能？」；相較於對個人做具普遍性的命令與統治，存在主義更關心人的個別性與個別的處境。
+-
+- 知覺/意識優先 vs. 實踐/行為優先
+-
+- 知覺優先
+	- 預設：
+		- 人跟世界打交道 - 基礎方式
+		- is to 認識 世界的本質 / 真理 / 知識 = do 科學研究 (知識論的人觀)
+	- 因為：知覺 can verify / falsify 科學
+-
+- 科學以外 still have 日常生活
+	- 過往：人不是從來都有科學
+	- 現在：不是每個人都是科學家，不是隨時都在做科學
+-
+- what is / how do they happen 現象、意義？
+-
+- 現象學
+	- 原本：意象性 = 能 vs. 所 = 主 vs. 客 = 研究者 vs. 對象
+	- 轉向
+		- 重提 存有問題
+-
+- 存在者
+	- 基本性格：實體 substance => 較真實
+		- 統一：unity
+		- 恆定：persistence
+		- 相同：sameness
+	- 附加性格：偶性 accident
+		- 會有變化
+			- e.g. 顏色
+-
+- Fundamental Ontology
+	- 透過現象學 重新提問 + 解答 有、在、是
+	- 認為
+		- 有、在、是 is similar to
+			- 奧古斯丁 - 懺悔錄 on 時間
+				- 沒有人問 => 知道 (直觀上)
+				- 有人問 => 不知道 (時間到底是什麼)
+		- but still 哲學有必要釐清 this 最基本 event
+		- why 人的存在 is special
+			- because 需要親自照顧自己的存在 (各自屬我性)
+			- we have choice, 是否要繼續存在？ (其他生命不會 question)
+	- 解答
+		- 透過解釋 what is dasein？
+-
+-
+- 本真 Authentic
+- 在世存在 Being-in-the-world
+-
+- 眼睛、手
+- 物體系統、意義網路
+-
+- functional reference => existential
+-
+-
+- 實踐優先
+	- 認為
+		- 外在物件 = equipment (工具) $\neq$ object (研究對象)
+		- 優先器官
+			- 沒問題：手 (使用)
+			- 有問題 / 故障：眼睛 (檢查, re-orientation = look around, examine, inspection)
+				- behavior = 看看怎麼辦才好，解決他 / 修理他 / 藏匿他
+				- purpose = 排除問題 (functional 環節, not 基礎方式)
+	- 改良
+		- 器官：手眼並用
+			- 眼 = sensor = input
+			- 手 = actuator = output
+			- => feedback loop => continuous re-calibration
+		- 論證
+			- 閉上眼睛 = 胡亂揮舞 = not using
+		- 物件
+			- information, is also an equipment => to understand
+-
+- Functional Reference:  Do 1 => (in order to) Do 2
+-
+- 分說
+	- 關西、連在一起
+	- 榔頭 => 垂東西 => 架起來 => 建房子 => 居住 => 追求快樂
+-
+- 追求快樂、舒泰、公正、實踐理想、美
+-
+- 會一直追下去
+- 追到一個地方會停，終端目的 = 只能用等值互換
+-
+- functional possibility / in-order-to
+- existential possibility  終極的可能性 dasein possibility
+-
+- 科技出於人性
+-
+- being-in-the-world:  from existential possibility => functional possibility
+- 拉動出來、網路、呈顯 (unfold)

@@ -1,0 +1,63 @@
+-
+- 記號學 semiotics
+	- subfields
+		- 語法學 (句法) syntactics:  記號 排列關係
+		- 語意學 (意義) semantics:  能記-所記 關係
+		- 語用學 (運用) pragmatics:  how 人使用記號
+	- type
+		- symptom 特徵：自然事物's 因果關聯, A 預示 B
+		- symbol 符號：人為約定
+			- signal 信號 , by 物理事件 (direct indication)
+			- symbol 象徵 , by 圖像
+				- 類比 / 相似 (analogous / similar)
+				  => 聯想 (indirect indication) e.g. 和平符號, 國旗
+			- mark 標誌
+				- 常常發生
+				  => 形象塑造 e.g. 崇敬心, 常勝軍, 有權勢
+			- language 語言
+				- 階層
+					- term 詞
+						- word 字
+						- phrase 片語
+						- sentence 句
+						- paragraph 段落
+						- text 文本
+				- 區分 by 量
+					- singular term 單稱詞
+					- general term 通稱詞 = concept 概念
+-
+- [ Semantics 語意 ]
+-
+- sign is to reflect thoughts on the real world
+- sign is to represent object
+	- signifier / referent / sign 能指
+	- sign user / subject 主體
+	- signified / referrer / object 所指
+- sign in "context"
+	- => "significance / meaning" 有意義 / 非雜訊
+-
+- historical stages
+	- 1st
+		- 能指 - 所指 has 神秘力量連結 , alter 能指 => alter 所指
+	- 2nd
+		- 能指 - 所指 no 必然關係
+	- 3rd
+		- 能指 - 所指 becomes
+			- 太過抽離 / 多層次結構 (hierarchy)
+			- 沒有固定規範 , 可 引伸、挪用、隱喻 (like 瓶 - 水)
+-
+- 意義結構
+	- meaning space 意義空間
+	- meaning dimensions 意義向度：外延、內涵、情感意義
+-
+- 情境 / 脈絡  (to 正確理解)
+	- 口說：情境 = 人事時地物
+	- 書寫：脈絡 = 上下文
+-
+- 歧義 / 含混  (to 消除錯誤)
+	- ambiguity 歧義性：same 語句 => diff 理解 (e.g. 雙關語)
+	- vague 含混性：
+		- 定義 模糊 / 不明確 (生活 v, 論證 x)
+		- e.g. 有錢人 = 有車 / 有房 or 存款 1000 萬？
+-
+- communicate 溝通：A方 use 符號 to make 意圖 / 資訊 transmit to B方

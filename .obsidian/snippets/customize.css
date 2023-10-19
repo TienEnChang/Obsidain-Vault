@@ -1,0 +1,11 @@
+.nav-file-title, .nav-folder-title {
+    font-size: 15px;
+}
+
+.inline-title{
+    font-size: 25px;
+}
+
+.cm-hmd-internal-link .cm-underline, .internal-link {
+    text-decoration: initial !important
+}

@@ -1,0 +1,15 @@
+-
+- Def.
+- series:  $\displaystyle\sum_{k=1}^{\infty}a_k$  where  $k\in\mathbb{N}$  $\land$  $a_k\in\mathbb{R}$
+	- partial sum of the series:  $s_n=\displaystyle\sum_{k=1}^{n}a_k$
+	- sequence of the series:  $\{s_n\}_{n=1}^{\infty}$
+-
+- Def
+	- arithmetic series:  $\displaystyle\sum_{k=1}^{n}k\cdot d$  ,  $s_n=\dfrac{n\,(n+1)}{2}\cdot d$
+	- geometric series:  $\displaystyle\sum_{k=1}^{n}r^{k}$  ,  $s_n=\dfrac{r\cdot(1-r^{n})}{1-r}$
+	- p-series:  $\displaystyle\sum_{k=1}^\infty \dfrac1{k^{\,p}}$
+	- alternating series:  $\displaystyle\sum_{k=1}^\infty (-1)^k\,a_k$  where  $a_k\geq0$
+-
+- Def
+	- converges absolutely:  $\displaystyle\sum_{k=1}^\infty a_k$  converges  $\land$  $\displaystyle\sum_{k=1}^\infty |a_k|$  converges
+	- converges conditionally:  $\displaystyle\sum_{k=1}^\infty a_k$  converges  $\land$  $\displaystyle\sum_{k=1}^\infty |a_k|$  diverges

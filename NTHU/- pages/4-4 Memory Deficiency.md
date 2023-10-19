@@ -1,0 +1,29 @@
+
+- Amnesia
+	- retrograde:  before accident
+	- anterograde:  after accident
+	- infantile
+
+- Distortion
+	- types
+		- transience
+		- absent-mindedness (not paying attention)
+		- blocking
+		- misattribution (from where?)
+		- suggestibility (提示)
+		- bias
+		- persistence
+	- importance
+		- eye-witness testimony
+			- lineups
+			- confession:  61% change their mind
+			- post-identification feedback effect:  evidence confirm / conflict => falter (動搖)
+			- stress level
+			- other
+				- race difference / out-group => cannot identify
+				- children are more easily lead
+-
+- Unreliability of memory
+	- memory
+	- $\neq$ can be stored & retrieved perfectly
+	- $=$ construction of bits and pieces of experience

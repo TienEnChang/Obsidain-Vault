@@ -1,0 +1,26 @@
+- Sensation =(understand)> Perception
+- Percept: mental representation 腦中影像
+-
+- bottom-up = "perception dominance":  no cognition needed
+- top-down = "cognition dominance":  expect things => see things
+-
+- template:  "model" of things we recognize (perfect match / highly detailed)
+- feature-matching:
+	- whole => parts
+	- parts => whole
+	-
+- constructive perception
+	- thoery
+		-
+	- pheno
+		- perceptual constancy (diff input = same obj)
+		- mech.
+			- sense (sensory)
+			- know (memory)
+			- infer (cognition)
+-
+- ![Screenshot 2023-04-13 at 2.06.52 PM.png](Screenshot_2023-04-13_at_2.06.52_PM_1681366020318_0.png)
+- ![Screenshot 2023-04-13 at 2.07.12 PM.png](Screenshot_2023-04-13_at_2.07.12_PM_1681366037229_0.png)
+-
+- ![Screenshot 2023-04-13 at 2.08.19 PM.png](Screenshot_2023-04-13_at_2.08.19_PM_1681366104212_0.png)
+- ![Screenshot 2023-04-13 at 2.07.51 PM.png](Screenshot_2023-04-13_at_2.07.51_PM_1681366077564_0.png)

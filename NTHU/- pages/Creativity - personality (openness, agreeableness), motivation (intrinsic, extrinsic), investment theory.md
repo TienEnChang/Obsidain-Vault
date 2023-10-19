@@ -1,0 +1,23 @@
+
+Creativity:
+- def
+	- original: plagiarism↓, never-before-unseen↑
+	- worthwhile: e.g. invention
+- types
+	- divergent production
+- personality
+	- openness
+	- agreeableness: dominance, hostile, non-conventional
+	- motivated
+		- self-confident, ambitious
+		- impulsive
+- need
+	- expertise + commitment
+- factors
+	- intrinsic↑, interested
+	- extrinsic↓, grade, money
+- theory
+	- Investment theory of creativity
+		- buy-low: pick up under-valued
+		- work-up: turn into high-valued
+		- sell-high: profits

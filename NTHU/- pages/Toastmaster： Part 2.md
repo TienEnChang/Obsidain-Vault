@@ -1,0 +1,25 @@
+- Okay, so. This part is for the prepared speech.
+- I'm not gonna lie. This is the part, that I'm looking forward to, the most.
+	- Not just because I can just sit back and relax (哈哈)
+	- but actually, I'm very curious about what they're all going to share with us.
+- But before we start, I have some words for the prepared speakers.
+	- While you're on the stage. If you want me to turn the slide to the next one, just give me a thumbs-up like this (比讚), okay?
+	- Also, each of you only have 6 mins at max, and Eugene will help you on that, okay? (OK手勢)
+- Now, let's get started!
+- The first topic for today is "Cloud Computing", presented by Elsie! (伸手)
+	- Please welcome her! (拍手)
+	- (finished, 拍手)
+- And now, the second topic for today is "Cryptocurrency", presented by Roy! (伸手)
+	- Please welcome him! (拍手)
+	- (finished, 拍手)
+- And now, the final topic for today is "Is Sleep Important?", presented by Emily! (伸手)
+	- Please welcome her! (拍手)
+	- (finished, 拍手)
+-
+- Hi, It's me again. (笑)
+	- Thanks to the 3 prepared speakers who gave us such wonderful presentations.
+	- I bet we've all learned something new.
+- But! As we were all listening attentively to their presentations (聽手勢),
+	- there were 3 evaluators sitting in the back secretly evaluating their performance. (伸手)
+	- So it's now time for the speakers themselves to learn something new from their evaluators!
+- Let's welcome the next session's host, Nelson! (拍手)

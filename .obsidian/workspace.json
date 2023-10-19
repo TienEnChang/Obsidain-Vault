@@ -1,0 +1,322 @@
+{
+  "main": {
+    "id": "48ee782c64f584f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b775a6c5b92eb83e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd5ef856b81b5679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NTHU/1 MATH/112-1 線性代數.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d65bf6d327b50211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NTHU/2 KIPE/112-1 心智導論.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2468263ecc9e255",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NTHU/1 MATH/112-1 線性代數.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0340f7e3760ecf02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NTHU/2 ECON/112-1 個體經濟.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b0fc8a19ce5886e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NTHU/1 MATH/112-1 機率論.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d1abf65f560adfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "- Assets/Quick note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd4c5a26ebc99715",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NTHU/GE/112-1 環境與永續.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1a6857d0b46ef5ec",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ea48a6665c190550",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp Note 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82cf03a6fbb2c7cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea6c09f197db0bc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16a96264a864aca3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e80944b852aab476",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e762609b55a714a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "contradict",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a9e044e1529346a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f975ae77947eff8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ea84c14e2863e0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NTHU/1 MATH/112-1 機率論.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e547bb740a56e1ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NTHU/1 MATH/112-1 機率論.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd83090e7e6a97d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7dbbe2df5e376970",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NTHU/1 MATH/112-1 機率論.md"
+              }
+            }
+          },
+          {
+            "id": "764ca9be68607070",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a11e9e8c616ec2d8",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "2b0fc8a19ce5886e",
+  "lastOpenFiles": [
+    "Obsidian-Vault",
+    "- Assets/Quick note.md",
+    "NTHU/2 ECON/112-1 個體經濟.md",
+    "NTHU/1 MATH/112-1 機率論.md",
+    "Cardinality - Pf..md",
+    "NTHU/1 MATH/112-1 線性代數.md",
+    "NTHU/GE/112-1 環境與永續.md",
+    "NTHU/1 MATH/112-1 高等微積分.md",
+    "Limit Points - Def. + Thm..md",
+    "2023_10_19 下午2_28 Office Lens (2).jpg",
+    "NTHU/- pages/Sequence - incr., decr., bounded, conv., div..md",
+    "NTHU/- pages/Series Def - types , conv. abs. condi..md",
+    "NTHU/- pages/Series Thm - conv. => 0,  abs. => conv..md",
+    "NTHU/- pages/Sequence Thm - arithmetic , find limit , imply conv..md",
+    "NTHU/1 MATH/111-2 微數.md",
+    "NTHU/2 KIPE/112-1 心智導論.md",
+    "NTHU/- pages/Power Series - interval , radius.md",
+    "Temp Note.md",
+    "NTHU/- pages/N-Dimensional - abs. extreme, lagrange mult..md",
+    "NTHU/- pages/Power Series - func, cont, diff, int.md",
+    "Temp Note 2.md",
+    "Screenshot 2023-10-18 at 11.44.23 AM.png",
+    "Screenshot 2023-10-17 at 6.59.05 PM.png",
+    "Subspace - Def. + Thm..md",
+    "Metric Space - Def. + Thm..md",
+    "Limit Points - Pf..md",
+    "112-1 Adv Cal - Mid I, Cheat Sheat.md",
+    "Topological Space - Def. + Thm..md",
+    "Cardinality - Def. + Thm..md",
+    "Screenshot 2023-09-22 at 11.49.29 PM.png",
+    "Screenshot 2023-10-14 at 11.20.49 PM.png",
+    "Screenshot 2023-10-10 at 11.22.42 PM.png",
+    "2023_10_12 下午11_37 Office Lens.jpg",
+    "Screenshot 2023-09-22 at 11.56.22 PM.png",
+    "2023_10_12 下午7_58 Office Lens.jpg",
+    "2023_10_12 下午7_21 Office Lens.jpg",
+    "NTHU/X",
+    "NTHU/SC",
+    "NTHU/FL & CL",
+    "NTHU/GE",
+    "NTHU/2 KIPE",
+    "NTHU/1 MATH",
+    "NTHU/2 ECON",
+    "NTHU",
+    "- Assets/pdf/SDT's effects on youth swimmers.pdf",
+    "- Assets/pdf/a-conceptual-model-of-trust-perceived-risk-and-reliance-on-ai-decision-aids.pdf",
+    "Influencism.canvas",
+    "Test.canvas",
+    "Life.canvas"
+  ]
+}

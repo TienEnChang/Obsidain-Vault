@@ -1,0 +1,39 @@
+-
+- 事先
+	- 繳交 Powerpoint
+	- 詢問 Projection Screen 操作方式
+	- Timer sit where Kai sat
+	- 跟 prepared speakers 說
+		- 結束 table discussion 要坐前面 + 坐走道位置
+- 途中
+	- General
+		- 口
+			- Great tone variation / Higher Pitch / 大聲、大方
+			- Cheerful Atmosphere / Bring Laughter              (笑點？更多幽默感、不制式)
+			- Counting Ahs, improve on that
+			- Clear / Smooth / 口條清晰
+		- 身
+			- 不晃動
+	- To-do
+		- 給 microphone
+		- 控制 computer & screen
+	- Compliments Afterwards (templates)
+		- On Audio:  tone
+		- On Visual:
+			- hand gestures "natural and steady"
+			- PPT "well-designed, pretty" "clean and concise, straight to the point"
+		- On the Content:
+			- "informative, content rich, arouse great curiosity, interesting, grab attention" 
+			  "easy to understand"
+			- "entertaining, interactive"
+-
+- ---
+-
+- 暫不需要
+	- I would like to thank Abhinav & Nelson for putting a lot of effort with me into preparing today's Toastmaster.
+	- Now, before we start. Let's hear from Eugene to tell us about some tips to follow, to keep us all on our time schedule! Please welcome him! (拍手)
+	- and we'll have Elsie, Roy, and Emily to give us some wonderful presentation. This part is actually the most anticipating part for me! Not just because I can just sit back and relax (哈哈) but the topics are really compelling to me, and I'm actually really curious about what they are going to present.
+	- Brief intro to the topic?
+	- The prepared speakers for today are Elsie, Roy, and Emily. Please stand up and say hi to everyone! (拍手)
+-
+-

@@ -1,0 +1,17 @@
+-
+- type
+	- feature search:  one feature
+	- conjunction search:  combining features (harder, why?)
+-
+- attempt to answer
+	- feature-integration theory
+		- feature:  multiple in parallel
+			- display size is unrelated
+		- conjunction:  multiple in sequence
+			- attentional resource usage↑
+	- similarity theory
+		- conjunction:  distractor-target similarity↑
+-
+- ![Screenshot 2023-04-13 at 1.08.23 PM.png](Screenshot_2023-04-13_at_1.08.23_PM_1681362508089_0.png){:height 301, :width 615}
+-
+-

@@ -1,0 +1,55 @@
+-
+- 目的
+	- make everyone's work worthwhile
+	- make good transition, opening, closing
+-
+- Head TM
+	- Opening
+	- Welcome + Applause: Timer
+	- Welcome + Applause: Table TM
+- [ Part A ]
+- Table TM
+	- Instruction
+	- Discussion
+	- Welcome + Applause (x2): Impromptu Speakers (x4)
+	- Ending
+	- Transition: Head TM
+- [ Part B ]
+- Head TM
+	- Instruction + Give a Briefing on the Topics + Rearrange Seats  {Screen Down}
+	- Welcome + Applause (x2): Prepared Speakers (x3)
+	- Ending  {Screen Up}
+	- Welcome + Applause: Evaluation TM
+- [ Part C ]
+- Evaluation TM
+	- Instruction
+	- Welcome + Applause: Evaluators (x3)
+	- Ending
+	- Transition: Head TM
+- [ Part D ]
+- Head TM
+	- Give Compliments & Appreciations
+	- Welcome + Applause: Timer
+	- Welcome + Applause: Gen. Evaluator
+	- That's all for today's TM. Have a nice day~
+-
+- [ Mistakes from last time ]
+- All
+	- Forgot to give “microphones”
+- Prepared Speech
+	- Forgot to invite them to sit in the front ⇒ Head TM’s job
+	- Forgot to instruct them the “preferable cue” for “next slide” ⇒ Head TM’s job
+	- No one know how to control the “projection screen” ⇒ Need one helper
+-
+- [ Things to learn from ]
+- Jimmy Y
+	- memorize well on what to present
+	- transition is good
+	- no pauses, uh...
+- Lulu
+	- 口條清晰、有手勢
+	- 帶動氣氛 (輕鬆) cheerful
+	- any question
+- Jimmy L
+	- 大方 + 大聲、四平八穩 = 不晃來晃去
+	-

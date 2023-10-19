@@ -1,0 +1,48 @@
+-
+- 小結
+- (1) 目標 ${v_球}'$ 固定： $m_拍$ 小 $\implies$ $v_拍$ 需求大
+- (2) 目標 $\Delta t$ 固定： $|\Delta x|$ 大 $\implies$ $v_拍$ 產出大
+-
+- 總結：$m_拍$ 小 $\implies$$|\Delta x|$ 大
+-
+- ---
+-
+- 假設完全彈性碰撞 &  $v_{球}=0$
+-
+	- $v_1\\'=\dfrac{m_1-m_2}{m_1+m_2}\,v_1+\dfrac{2\,m_2}{m_1+m_2}\,v_2$   (碰撞公式)
+	-
+		- $\implies v_球\\'=(\dfrac{\,m_拍}{m_球+m_拍})\cdot2\,v_拍$
+-
+- 假設肌肉 & 彈簧類似，做簡諧運動
+-
+	- $F(x)=-k_F\,x$
+	-
+		- $k_F=m\,\omega^2=(\dfrac{\pi}{2})^2\dfrac{m}{\Delta t\,^2}$    (因為 $\Delta t=\dfrac{T}4$ ,  $\omega=\dfrac{2\,\pi}{T}$)
+	-
+	- $\displaystyle\\ K=\int_{|\Delta x|}^0F(x)dx=\dfrac12\,k_F\,|\Delta x|^2$
+	-
+		- $K=\dfrac{\pi^2}{8}\,m\,\dfrac{|\Delta x|^2}{\Delta t\,^2}$
+		-
+		- $\implies v_拍=\dfrac{\pi}{2}\dfrac{|\Delta x|}{\Delta t}$
+	-
+- 假設做等加速度運動
+	-
+		- $\implies v_拍=a\,\Delta t=\dfrac{2\,|\Delta x|}{\Delta t}$    (因為 $|\Delta x|=\dfrac12a\,\Delta t\,^2$)
+-
+- 假設 ${v_球}'$ 不變
+-
+	- 綠：$\dfrac{v_2}{v_1}=1+\dfrac{m}{m+m_1}(1-\dfrac{m_2}{m_1})$
+-
+	- 藍：$\dfrac{K_2}{K_1}=\dfrac{m_2}{m_1}(\dfrac{v_2}{v_1})^2=\dfrac{m_2}{m_1}[1+\dfrac{m}{m+m_1}(1-\dfrac{m_2}{m_1})]^2$
+-
+- 假設 $\Delta t$ 不變
+	-
+	- 綠：$\dfrac{|\Delta x|_2}{|\Delta x|_1}=\dfrac{v_2}{v_1}$
+	-
+	- 無：$\dfrac{k_F\\_2}{k_F\\_1}=\dfrac{m_2}{m_1}$
+	-
+		- $\implies$表示 $m_拍$ 越小，肌肉力量越弱，因為需要阻抗
+		-
+		- $\implies$累人方式不同：力量大 / 距離短 (爆發力) vs. 力量小 / 距離長 (耐力)
+-
+- ![Screenshot 2023-03-26 at 2.41.22 PM.png](Screenshot_2023-03-26_at_2.41.22_PM_1679812886807_0.png){:height 355, :width 300} | ![Screenshot 2023-03-26 at 2.42.18 PM.png](Screenshot_2023-03-26_at_2.42.18_PM_1679812944544_0.png){:height 355, :width 300}

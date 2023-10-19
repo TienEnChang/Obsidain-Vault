@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "48ee782c64f584f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeaed84ace4803ce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ECON 經原/Part 3 - Price, Demand, Supply.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a54a1e6a8ed62d09",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MATH 微數/Exam 1-2 = Thm. Cor..md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82cf03a6fbb2c7cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea6c09f197db0bc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e80944b852aab476",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e762609b55a714a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d4185680dfb4ea8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251
+  },
+  "right": {
+    "id": "a9e044e1529346a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f975ae77947eff8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ea84c14e2863e0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ECON 經原/Part 3 - Price, Demand, Supply.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e547bb740a56e1ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ECON 經原/Part 3 - Price, Demand, Supply.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd83090e7e6a97d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7dbbe2df5e376970",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ECON 經原/Part 3 - Price, Demand, Supply.md"
+              }
+            }
+          },
+          {
+            "id": "f233a97a2491445b",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "764ca9be68607070",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "95549870670d9acb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.5,
+    "collapsed": true
+  },
+  "active": "eeaed84ace4803ce",
+  "lastOpenFiles": [
+    "KIPE 普心/4. Learning.md",
+    "MATH 微數/Exam 1-2 = Thm. Cor..md",
+    "MATH 微數/Temp.md",
+    "MATH 微數/3-1 微分.md",
+    "MATH 微數/Exam 1-3 = Pf..md",
+    "MATH 微數/Lean Prover & URLs.md",
+    "MATH 微數/Exam 1-1 = Def..md",
+    "X 其他/講座：淨零時代 科技研發的挑戰與機會.md",
+    "X 其他/自學：Category Theory 範疇論.md",
+    "X 其他/退：線性代數.md"
+  ]
+}

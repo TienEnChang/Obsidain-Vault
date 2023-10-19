@@ -1,0 +1,18 @@
+- Hello everyone! (揮手) I'm Timothy! I'm the host of today's toastmaster program.
+	- I'm pretty sure you're all getting very excited, right? (攤手 + 聳肩)
+-
+- And today, as written on the schedule, (清單) we're going to have a total of 4 sessions. (比四)
+- The first one is the table discussion, which will be led by A-bhi-nav! (伸向)
+	- Please stand up, and everyone, please give him applause! (拍手)
+- And the second one is the prepared speech, which will be led by me! (揮手)
+- And the third one is the evaluation part, which will be led by Nelson! (伸向)
+	- Please stand up. (拍手)
+- And the last one will be presented by our timer, Eugene! (伸向) and our general evaluator Big Jimmy! (伸向) (拍手)
+	- Please stand up. (拍手)
+-
+- So, before we start, I have something to remind you.
+	- Because last time, the timer only timed the prepared speakers, which led to some speakers actually went overtime.
+	- So this time, the impromptu speakers, the prepared speakers, and the evaluators.
+	- You should all expect to receive some prompts from the timer during your speech
+- Our timer, Eugene, is going to tell you more about this. Let's welcome Eugene! (拍手)
+- So, without further ado, Let's get started! Let's welcome A-bhi-nav! (拍手)

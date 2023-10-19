@@ -1,0 +1,16 @@
+{
+  "cssTheme": "",
+  "theme": "system",
+  "translucency": false,
+  "textFontFamily": "Inconsolata",
+  "baseFontSize": 19,
+  "monospaceFontFamily": "",
+  "accentColor": "#6b93ef",
+  "interfaceFontFamily": "LVC Sans",
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "custom",
+    "customize",
+    "theme"
+  ]
+}

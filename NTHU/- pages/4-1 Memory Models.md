@@ -1,0 +1,51 @@
+
+- Explicit memory
+- Implicit memory:  unaware of info collection
+
+- Models
+	- Atkinson Shriffin's multistore model
+	- Levels-of-processing model
+	- Working memory model
+
+- Multistore model
+	- illustration
+	- ![MSM.jpg](MSM_1680162718814_0.jpg)
+	- duration
+		- sensory: 1 sec
+			- iconic, echoic
+		- STM: 15 ~ 25 sec
+		- LTM: ...
+			- {no capacity limit}
+			- procedural:  riding a bike, driving a car  {implicit}
+			- declarative                                                     {explicit}
+				- semantic = non-personal
+				- episodic = personal exp.
+	- rehearsal
+		- repetitive = in STM
+		- elaborative = to LTM
+
+- Levels-of-processing model  (how deeply processed is it?)
+	- levels
+		- 1. Physical / Visual
+		- 2. Phonological / Audio
+		- 3. Semantic
+	- memorize
+		- mere exposure: 重複 / 大量
+		- self reference: 跟 親身經驗 連結
+	- elaborate
+		- within item: 理解本身
+		- between item: 連結他者
+
+- Working memory model
+	- redefine
+		- STM: all
+		- LTM: recently activated part
+	- model
+		- CPU
+			- central executive             (control unit / arith-logic unit)
+			- episodic buffer                 (cache)
+		- Memory U.
+			- visuospatial sketchpad  (flash drive, SSD)
+			- phonological loop            (flash drive, SSD)
+		- External
+			- LTM                                       (hard drive, HDD)

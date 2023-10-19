@@ -1,0 +1,22 @@
+
+Fallacy
+- types
+	- apophenia / "pattern finding"
+		- find pattern between random => meaning
+		- over-interpreting, conspiracy theory
+	- gambler's fallacy
+		- already lost so much => next try must win
+	- hot hand effect
+		- on a win-streak => continue win
+	- Texas sharpshooter fallacy
+		- 先射箭再畫靶
+	- conjuction fallacy
+		- prob of occurance: A $\cap$ B > A
+	- sunk cost fallacy
+		- already spend so much time / energy / love
+		- => unwilling to give up / keep going
+		- => even more unwilling
+			- e.g. marriage
+			- e.g. what field to study
+- measure
+	- how to avoid? let others point it out

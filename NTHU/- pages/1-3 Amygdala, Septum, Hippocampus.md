@@ -1,0 +1,21 @@
+-
+- limbic system
+	- less developed (fish, reptile): instinctual
+	- more developed (mammal): thoughtful
+-
+- amygdala, septum
+	- function:  fear, anger
+	- damaged
+	  => inability to sense emotion info
+-
+- hippocampus
+	- function:  learning, finding relation, spatial memory
+	- damaged
+	  => inability to form new memory
+-
+- Korsakoff's syndrome
+	- cause:
+		- alchohol => inability to utilize vitamin B1
+		- deficiency of vitamin B1 => inability to utilize carbohydrates
+	- symptoms:
+		- inability to form new memory

@@ -1,0 +1,37 @@
+- [ 命題 ]
+-
+- 命題：事物 perform 斷定 (肯定 / 否定) with 性質?
+	- 對應
+		- same 語句 + diff 語境 => diff 命題
+		- diff 語句 => same 命提
+-
+- 形式
+	- 主詞 S：被斷定. 物件
+	- 謂詞 P：性質表述
+	- 聯詞
+		- 肯定：是
+		- 否定：不是
+	- 量詞
+		- 單稱 singular $\subseteq$ 全稱 universal：所有、凡 (for all)
+		- 特稱 particular：有些 (for some)
+	- 基本形式
+		- 全稱肯定：SAP , A
+		- 特稱肯定：SIP , I
+		- 全稱否定：SEP , E
+		- 特稱否定：SOP , O
+			- AffIrmo, nEgO
+-
+- 真假值
+	- 真 T = 相符事實 (Fact)
+	- 假 F = 不符
+-
+- 當 S, P ...
+	- impossible 同真 : 相反 contrary
+	- impossible 同假 : 次相反 sub-contrary
+	- impossible 同真 and 同假 : 矛盾 contradictory
+- ![Screenshot 2023-03-02 at 11.42.59 AM.png](Screenshot_2023-03-02_at_11.42.59_AM_1677728584713_0.png)
+- =
+- 從屬
+	- 全稱 T => 特稱 T
+	- 特稱 F => 全稱 F
+- ![Screenshot 2023-03-02 at 11.49.57 AM.png](Screenshot_2023-03-02_at_11.49.57_AM_1677729001210_0.png)

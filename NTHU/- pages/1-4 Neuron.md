@@ -1,0 +1,21 @@
+-
+- Neuron
+	- cell body
+	- dendrites
+	- axon
+		- myelin
+		- nodes of ranvier (gaps)
+	- terminal buttons
+-
+- Neuron to Neuron
+	- synapse (gaps)
+	- neurotransmitter + neuroreceptor
+	- pathway
+		- up - dorsal
+		- down - ventral
+-
+- synapse pruning => unique personality
+-
+- ![Screenshot 2023-04-13 at 12.55.41 AM.png](Screenshot_2023-04-13_at_12.55.41_AM_1681318545154_0.png){:height 434, :width 596}
+-
+-

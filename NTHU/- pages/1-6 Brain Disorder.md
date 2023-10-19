@@ -1,0 +1,29 @@
+-
+- Stroke 中風
+	- symptom
+		- one-sided numbness / weakness
+		- dizziness / loss of balance
+		- difficulty in speaking / speech understanding
+		- vision disturbance
+		- severe headache
+	- type
+		- ischemic stroke: blocked artery => lacking blood 阻塞 / 缺血
+		- hemorrhagic stroke: ruptured artery = too much blood 爆掉 / 出血
+	- cure
+		- 血栓溶解劑 (< 3 hrs)
+		- 動脈內取栓術 (< 6 hrs)
+	- test
+		- 微笑：嘴角歪斜
+		- 閉眼 + 雙手平舉 + 撐住10秒：單側無力
+		- 覆誦：無法
+		- 動眼：無法 “自由” 水平移動
+-
+- Brain tumor
+	- type
+		- primary:  start from "brain"
+		- secondary:  start from "body"
+-
+- Head injuries
+	- type
+		- closed-head injuries 封閉性
+		- open-head injuries 開放性

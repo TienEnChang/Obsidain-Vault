@@ -1,0 +1,22 @@
+- Meta-cognitive Learning
+	- think about how we think
+	- process
+		- goal setting + continual monitoring
+		- identify know / unknown parts
+		- adapting as necessary
+	- method
+		- self-questioning
+		- annotated drawing / concept mapping
+		- reciprocal teaching
+-
+- Spacing effect
+	- distributed practice:  longer period  (better)
+	- massed practice:  short period
+-
+- Mnemonics (memorizing tricks)
+	- methods
+		- chunking:  length < 4 digits
+		- acronym:  ROY G BIV  (visible light)
+		- acrostic:  OBAFGKM = Oh Be A Fine Girl, Kiss Me.  (star temperature classification)
+		- memory palace
+		- rhyming

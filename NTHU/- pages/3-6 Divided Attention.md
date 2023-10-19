@@ -1,0 +1,18 @@
+-
+- [ 分心 ]
+-
+- Def
+	- divide attentional resources => multitasking
+-
+- Experiment
+	- task:  reading a story (eye) + writing down words heard (ear + hand)
+	- finding
+		- very difficult
+		- practice => improve (!)
+	- task:  talking on the phone + moving the joystick
+	- finding
+		- likely to miss = push the brake (注意駕駛)
+-
+- Theory
+	- one-pool (x) vs. multi-pool (v)
+	- ![Screenshot 2023-03-09 at 5.45.15 PM.png](Screenshot_2023-03-09_at_5.45.15_PM_1678355120394_0.png)
