@@ -1,16 +1,17 @@
 {
   "cssTheme": "",
-  "theme": "system",
+  "theme": "obsidian",
   "translucency": false,
   "textFontFamily": "Inconsolata",
-  "baseFontSize": 19,
+  "baseFontSize": 18,
   "monospaceFontFamily": "",
   "accentColor": "#6b93ef",
   "interfaceFontFamily": "LVC Sans",
   "showViewHeader": false,
   "enabledCssSnippets": [
     "custom",
-    "customize",
-    "theme"
-  ]
+    "theme",
+    "customize"
+  ],
+  "baseFontSizeAction": false
 }

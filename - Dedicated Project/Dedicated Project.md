@@ -3,22 +3,21 @@
 [[Psy： Motivation & Dopamine]]
 
 - [[Gen Art Project]]
--
-- [[Cross: Complex System]]
+
 - [[Psy: Motivation]]
 - [[Psy: Motivation & Dopamine]]
--
+
 - [[羽球 with 物理]]
 - [[自我認識 & 交友]]
--
+
 - 長期研究
 - 好決策 vs. 壞決策
 - 環境 / 生活管理方法學
   
   ⇒ 改善行為 (nudge theory , 3rd CLL)
--
+
 - ---
--
+
 - ![Screenshot 2023-04-08 at 11.37.20 PM.png](Screenshot_2023-04-08_at_11.37.20_PM_1680968263983_0.png)
 -
 - 人際 & 聊天

@@ -1,6 +1,7 @@
-- ![Screenshot 2023-02-23 at 6.02.31 PM.png](Screenshot_2023-02-23_at_6.02.31_PM_1677146555433_0.png)
-- ![Screenshot 2023-04-13 at 1.49.22 PM.png](Screenshot_2023-04-13_at_1.49.22_PM_1681364968867_0.png)
--
+- 
+	![Screenshot 2023-02-23 at 6.02.31 PM.png](Screenshot_2023-02-23_at_6.02.31_PM_1677146555433_0.png)
+	![Screenshot 2023-04-13 at 1.49.22 PM.png](Screenshot_2023-04-13_at_1.49.22_PM_1681364968867_0.png)
+
 - Structure
 	- 1.
 		- Front
@@ -27,12 +28,12 @@
 			- pretectal nucleus
 		- Occipital Lobe
 			- visual cortex
-- 
-- ||For|To|
-  |---|---|---|
-  |where pathway|location, motion|parietal lobe|
-  |what pathway|color, shape|temporal lobe|
--
+
+|               | For              | To            |
+| ------------- | ---------------- | ------------- |
+| where pathway | location, motion | parietal lobe |
+| what pathway  | color, shape     | temporal lobe |
+
 - hypothesis
 	- what-where hypo.
 	- what-how hypo. (no-big-diff)

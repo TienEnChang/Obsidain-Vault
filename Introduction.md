@@ -9,7 +9,7 @@ Economics:  game with rule set by us => how can be better?
 
 Mathematics in Economics
 - why
-	- math = rigor,  rigor + intuition = scientific method
+	- math = rigor,  rigor + intuition = scientific method (陶哲軒)
 - variety
 	- hard:  theorist, econometrics
 	- easy:  applied theory, applied econometrics
@@ -19,4 +19,4 @@ Mathematics in Economics
 	- basics:  calculus, linear algebra
 	- medium:  <u>diff. equation</u>, real analysis
 	- advanced:  <u>time series</u>, <u>Fourier analysis</u>
-	- extra:  topology, 
+	- extra:  topology, dynamic system

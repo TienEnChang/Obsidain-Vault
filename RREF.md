@@ -1,0 +1,12 @@
+
+- $(A'|\,b')$ in RREF:  $A'=\begin{bmatrix} 1  & r_{12} & 0 & r_{14} \\  0 & 0 & 1 & r_{24} \\  0 & 0 & 0 & 0\end{bmatrix}$,  $b'=\begin{bmatrix} r_{15} \\ r_{25} \\ 0 \end{bmatrix}$
+- $\implies$
+- (1) $\,$pivot: $x_{1}$, $x_{3}$  <(decided by)= $\,$free: $t_{2}$, $t_{4}$
+- (2) 
+	- ${\rm rng}(L_A)={\rm span}\{\,A_{*1},\,A_{*3}\,\}$
+	- $\implies$ $A_{*2}= r_{12}\,A_{*1}$,  $A_{*4}=r_{14}\,A_{*1}+r_{24}\,A_{*3}$
+- (3) 
+	- $\begin{cases}x_{1}=-r_{12}\,t_{2}-r_{14}\,t_{4}\\x_{3}=\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,{}-r_{24}\,t_{4}\end{cases}$ ,  $\begin{cases}x_{2}=t_{2}\\x_{4}=t_{4}\end{cases}$
+- (4)
+	- ${\rm null}(L_{A})={\rm span}\{\begin{bmatrix} -r_{12} \\ 1 \\ 0 \\ 0 \end{bmatrix},\,\begin{bmatrix} -r_{14} \\ 0 \\ -r_{24} \\ 1 \end{bmatrix}\}$  { equivalent }
+	- ${\rm Sol}(Ax=b)=\begin{bmatrix} r_{15} \\ 0 \\ r_{25} \\ 0 \end{bmatrix}+{\rm null}(L_A)$

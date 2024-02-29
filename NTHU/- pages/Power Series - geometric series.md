@@ -3,7 +3,7 @@ Def. geometric series
 - $\because\;\displaystyle\sum_{k=0}^n{x^{k}}=\dfrac{1-x^{n+1}}{1-x}$
 - $\therefore$
 	- For $|x|>1$:  $\displaystyle\sum_{k=0}^\infty{x^{k}}$ diverges
-	- For $|x|<1$:  $\displaystyle\sum_{k=0}^\infty{x^{k}}$ converges ,  $f(x)=\displaystyle\sum_{k=0}^\infty{x^{k}}=\dfrac1{1-x}$
+	- For $|x|<1$:  $\displaystyle\sum_{k=0}^\infty{x^{k}}$ converges ,  $f(x)=\displaystyle\sum_{k=0}^\infty{x^{k}}=\dfrac1{1-x}$ ^a2ae3e
 
 Thm. ln
 - $\because\;\displaystyle \ln(1-x)'=\dfrac{-1}{1-x}$

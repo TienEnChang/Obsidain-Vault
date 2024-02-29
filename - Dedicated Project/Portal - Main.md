@@ -1,40 +1,10 @@
 
-Research 7/3
-- motivation
-	- role-concept = envision: who I want to be?
-		- [[Self-Affirmation & Ego Depletion.pdf]]
-	- self-concept = define: who I am, what type of person am I?
-		- [[Identity-Specific Motivation - Domain-General, Situation-Specific, Promotion-Prevention.pdf]]
-		- [[Identity-Based Motivation - Implications for Intervention.pdf]]
-		- [[Biased Self-Perceptions as Feedback.pdf]]
-- related
-	- [[Self-Determination Theory - Establishment of Healthy Identities.pdf]]
-	- [[SDT's effects on youth swimmers.pdf]]
-- organizational trust
-	- [[Mayer-IntegrativeModelOrganizational-1995.pdf]]
-	- [[a-conceptual-model-of-trust-perceived-risk-and-reliance-on-ai-decision-aids.pdf]]
-
-Research 7/2
-- gamification
-	- [[Work–Leisure Blending：An Integrative Conceptual Review and Framework to Guide Future Research.pdf]]
-	- [[The examination of the gamification process in undergraduate education a scale development study.pdf]]
-
-Research 6/19
-- Lack / Insufficiency as 最重要 Intrinsic Motive?
-	- effect
-		- cognitively valuable
-		- emotionally valuable
-
-Research 6/8
-- 控制系統 simulate 動機 => uncover mystery
-- deprive people of resource + provide support => promote adaptation
-
-Research
-- on attetion => exaggerate perceived value => impulsive decision
-- on risk & safeness threshold (contrary to EUT)
+Neuro-economics
+- decision science:  [What Can Neuroeconomics Tell Us About Economics (and Vice Versa)? | Comparative Decision Making | Oxford Academic (oup.com)](https://academic.oup.com/book/12089/chapter/161453092)
+- attention economy:  [Ethics of the Attention Economy: The Problem of Social Media Addiction | Business Ethics Quarterly | Cambridge Core](https://www.cambridge.org/core/journals/business-ethics-quarterly/article/ethics-of-the-attention-economy-the-problem-of-social-media-addiction/1CC67609A12E9A912BB8A291FDFFE799)
 
 [[Complex System Overview]]
-[[Properties of Complex System]]
+[[Properties of Complex System]], [[專題]]
 
 Computational Behavioral Science
 - better than traditional

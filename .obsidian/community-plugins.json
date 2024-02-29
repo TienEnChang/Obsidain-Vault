@@ -1,4 +1,6 @@
 [
   "table-editor-obsidian",
-  "obsidian-markdown-formatting-assistant-plugin"
+  "obsidian-markdown-formatting-assistant-plugin",
+  "obsidian-tikzjax",
+  "obsidian-latex-suite"
 ]

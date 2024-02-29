@@ -18,6 +18,7 @@ Thm.
 	- $\displaystyle{S_{\rm pow}}_\infty(x)=$ $\displaystyle\sum_{k=0}^{\infty}\dfrac{{S_{\rm pow}}_\infty\\^{(k)}(a)}{k!}(x-a)^k$ ,  $\dfrac{{S_{\rm pow}}_\infty\\^{(k)}(a)}{k!}=a_k$
 
 Thm.
+
 |           | condensed                                                                | expanded                                |
 | --------- | -------------------------------------------------------------------- | --------------------------------------- |
 | $e^x$     | $=\displaystyle\sum_{k=0}^{\infty}\dfrac{x^k}{k!}$                   | $=1+\dfrac{x}{1!}+\dfrac{x^2}{2!}...$   |

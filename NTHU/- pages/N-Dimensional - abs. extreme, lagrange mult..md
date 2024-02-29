@@ -9,7 +9,7 @@ Method. 1
 2. find all abs. extremes: $\partial D$
 3. compare
 
-Thm.
+Thm. ^c722d0
 - $f,\,g_k:U\subset\mathbb{R}^n\to\mathbb{R}$
 	- $U$ is open
 	- $f,\,g_k$ are differentiable

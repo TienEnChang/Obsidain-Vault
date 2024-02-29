@@ -1,15 +1,4 @@
 
-Def.
-- injective, 1-1:  $f(a)=f(b)\implies a=b$  $\forall\,a,\,b\in{\rm Dom}(f)$
-- surjective, onto:  $\forall\,y\in{\rm Cod}(f)$ $\exists\,x\in{\rm Dom}(f)$  s.t. $f(x)=y$
-- bijective, 1-1 $\land$ onto
-
-Def.
-- image:    $f(\{x\})\coloneqq\{f(x)\}$
-- preimage: $f^{-1}(\{y\})\coloneqq\{\,x\in{\rm Dom}(f)\;|\;f(x)=y\,\}$
-
-Thm. $\exists\,f^{-1}$ as a function (not preimage) $\iff$ $f$ is 1-1
-
 Def. 
 - $|A| = |B|$:  $\exists$ bijective $f:A\to B$
 - $|\varnothing|\coloneqq0$
@@ -84,6 +73,4 @@ Hypo. the Continuum hypothesis
 {not taught}
 
 Thm.
-- $\exists$ onto $f:A\to B$  $\implies$  $\exists$ 1-1 $g:B\to A$
-Pf.
-- 
+- $|A|\geq|B|$ $\iff$ $\exists$ onto $f:A\to B$

@@ -1,5 +1,6 @@
 
 Permanent vs. Temporary
+
 | Permanent Acc. | Temporary Acc. |
 | -------------- | -------------- |
 | Asset          | Revenue        |

@@ -1,16 +1,4 @@
 
-彈性 elasticity
-= unitless |斜率$^{-1}$| = |$\dfrac{\Delta Q/\bar Q}{\Delta P/\bar P}$|
-
-PQ = 
-1. TR, total revenue
-2. TE, total expediture
-
-| inelastic         | unit-elastic      | elastic           |
-| ----------------- | ----------------- | ----------------- |
-| $\varepsilon$ < 1 | $\varepsilon$ = 1 | $\varepsilon$ > 1 |
-| P↑, PQ↑           | PQ固定            | P↓, PQ↑           |
-
 曲線
 - 雙曲型 PQ = c：所有點, $\varepsilon$ = 1
 - 直線型

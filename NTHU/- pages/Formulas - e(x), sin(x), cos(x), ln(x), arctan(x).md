@@ -20,3 +20,4 @@ Formulas.
 Technique.
 - Taylor series of $\ln$ centered at $a$:
 	- $\ln(x)=\ln(a)+\ln(1-(1-\dfrac{x}{a}))$
+

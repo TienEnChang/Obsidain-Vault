@@ -4,89 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "b775a6c5b92eb83e",
+        "id": "dbe487b4f933ab7a",
         "type": "tabs",
         "children": [
           {
-            "id": "cd5ef856b81b5679",
+            "id": "7c189fbdcfbba35c",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "NTHU/1 MATH/112-1 線性代數.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "The Defying System.canvas",
+                "viewState": {
+                  "x": 89.83606180043851,
+                  "y": 180.4135393347954,
+                  "zoom": -0.137047891219457
+                }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "d65bf6d327b50211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NTHU/2 KIPE/112-1 心智導論.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2468263ecc9e255",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NTHU/1 MATH/112-1 線性代數.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0340f7e3760ecf02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NTHU/2 ECON/112-1 個體經濟.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b0fc8a19ce5886e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NTHU/1 MATH/112-1 機率論.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d1abf65f560adfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "- Assets/Quick note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd4c5a26ebc99715",
+            "id": "bb64c1d7f07d517e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NTHU/GE/112-1 環境與永續.md",
+                "file": "Latex Suite - Snippet.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,35 +39,103 @@
             }
           },
           {
-            "id": "1a6857d0b46ef5ec",
+            "id": "94f95363c2f126f5",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp Note.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "ea48a6665c190550",
+            "id": "151a8baacb0a07e0",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp Note 2.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "f12964266b1273c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39d5c2f1e30c6068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39aa6c6831af82e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Saved.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97958a6375df83c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Done.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15f5566b7b9f6988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archived.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc3d05b07ea48e7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Saved.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -149,7 +162,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -159,7 +172,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "contradict",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -168,7 +181,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NTHU/1 MATH/112-1 機率論.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NTHU/1 MATH/112-1 機率論.md",
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NTHU/1 MATH/112-1 機率論.md"
+                "file": "Untitled 2.md"
               }
             }
           },
@@ -267,54 +281,104 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2b0fc8a19ce5886e",
+  "floating": {
+    "id": "39cb55316ee7fa59",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9a63e51c2043e52c",
+        "type": "window",
+        "children": [
+          {
+            "id": "d49fc32a616b64ed",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1bbd41c2f575dbb9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Untitled 2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "20f4131efc338254",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Neuroscience.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 781.588623046875,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "1bbd41c2f575dbb9",
   "lastOpenFiles": [
-    "Obsidian-Vault",
-    "- Assets/Quick note.md",
-    "NTHU/2 ECON/112-1 個體經濟.md",
-    "NTHU/1 MATH/112-1 機率論.md",
-    "Cardinality - Pf..md",
-    "NTHU/1 MATH/112-1 線性代數.md",
-    "NTHU/GE/112-1 環境與永續.md",
+    "Saved.md",
+    "Untitled 2.md",
+    "Guidline.md",
+    "Archived.md",
+    "Neuroscience.md",
+    "Temp.md",
+    "Done.md",
+    "Untitled 3.md",
+    "Untitled 4.md",
+    "References.md",
+    "Untitled.md",
+    "Literature R.md",
     "NTHU/1 MATH/112-1 高等微積分.md",
-    "Limit Points - Def. + Thm..md",
-    "2023_10_19 下午2_28 Office Lens (2).jpg",
-    "NTHU/- pages/Sequence - incr., decr., bounded, conv., div..md",
-    "NTHU/- pages/Series Def - types , conv. abs. condi..md",
-    "NTHU/- pages/Series Thm - conv. => 0,  abs. => conv..md",
-    "NTHU/- pages/Sequence Thm - arithmetic , find limit , imply conv..md",
-    "NTHU/1 MATH/111-2 微數.md",
-    "NTHU/2 KIPE/112-1 心智導論.md",
-    "NTHU/- pages/Power Series - interval , radius.md",
-    "Temp Note.md",
-    "NTHU/- pages/N-Dimensional - abs. extreme, lagrange mult..md",
-    "NTHU/- pages/Power Series - func, cont, diff, int.md",
-    "Temp Note 2.md",
-    "Screenshot 2023-10-18 at 11.44.23 AM.png",
-    "Screenshot 2023-10-17 at 6.59.05 PM.png",
-    "Subspace - Def. + Thm..md",
-    "Metric Space - Def. + Thm..md",
-    "Limit Points - Pf..md",
-    "112-1 Adv Cal - Mid I, Cheat Sheat.md",
-    "Topological Space - Def. + Thm..md",
-    "Cardinality - Def. + Thm..md",
-    "Screenshot 2023-09-22 at 11.49.29 PM.png",
-    "Screenshot 2023-10-14 at 11.20.49 PM.png",
-    "Screenshot 2023-10-10 at 11.22.42 PM.png",
-    "2023_10_12 下午11_37 Office Lens.jpg",
-    "Screenshot 2023-09-22 at 11.56.22 PM.png",
-    "2023_10_12 下午7_58 Office Lens.jpg",
-    "2023_10_12 下午7_21 Office Lens.jpg",
+    "Function Space - Sup Norm Metric - Def. & Thm..md",
+    "Real numbers - Def. & Thm..md",
+    "Function Space - Convergence, Bounded - Def. & Thm..md",
+    "Theory.md",
+    "NTHU/1 MATH/112-1 機率論.md",
+    "112-2 統計學.md",
+    "Screenshot 2024-02-08 at 4.54.42 PM.png",
+    "- Assets/Quick note.md",
+    "112-2 機率論.md",
+    "Screenshot 2024-02-20 at 2.43.04 PM.png",
+    "Screenshot 2024-02-20 at 2.32.10 PM.png",
+    "Screenshot 2024-02-20 at 2.31.54 PM.png",
+    "Screenshot 2024-02-20 at 2.01.02 PM.png",
+    "Screenshot 2024-02-20 at 1.58.11 PM.png",
+    "Screenshot 2024-02-20 at 1.57.54 PM.png",
+    "Screenshot 2024-02-20 at 1.57.02 PM.png",
+    "Screenshot 2024-02-20 at 1.47.06 PM.png",
+    "Screenshot 2024-02-20 at 1.56.21 PM.png",
+    "NTHU/2 ECON/112-1 個體經濟.md",
+    "Utility Function, Budget Line, Lagrangian.md",
+    "Demand Function.md",
+    "Common Utility Function.md",
+    "Function Space - Series - Def. & Thm..md",
+    "The Defying System.canvas",
+    "IntroMBE_Topic06_ResearchPublication_Autumn2023.pdf",
+    "Prob - Mid1.pdf",
+    "Adv Calc - PM 2-1 2-2.pdf",
+    "Adv Cal - Mid1.pdf",
+    "EEG Guideline_compressed.pdf",
+    "高微演習 - 預習 1.pdf",
+    "Obsidian-Vault",
     "NTHU/X",
-    "NTHU/SC",
+    "NTHU/SC 夏季學院",
     "NTHU/FL & CL",
-    "NTHU/GE",
-    "NTHU/2 KIPE",
-    "NTHU/1 MATH",
-    "NTHU/2 ECON",
-    "NTHU",
-    "- Assets/pdf/SDT's effects on youth swimmers.pdf",
-    "- Assets/pdf/a-conceptual-model-of-trust-perceived-risk-and-reliance-on-ai-decision-aids.pdf",
     "Influencism.canvas",
     "Test.canvas",
     "Life.canvas"

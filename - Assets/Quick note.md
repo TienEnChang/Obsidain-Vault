@@ -1,13 +1,22 @@
 
 [Special Symbols](https://www.piliapp.com/symbol/)
-★☆ , ※ , ≠ , ↑↓ , ↗↘
+★☆ , §➤, ↗↘, →←, ↺↻, ☑☒
 
-[Latex Color](https://www.overleaf.com/learn/latex/Using_colours_in_LaTeX): \displaystyle
-![[Quick note#^eab923]]
--  | ^eab923
+[[Latex Suite - Snippet]]
+[What are all the font styles I can use in math mode?](https://tex.stackexchange.com/questions/58098/what-are-all-the-font-styles-i-can-use-in-math-mode)
 
-線性代數 (v)
-高等微積分
+
+↑↑
+
+---
+
+空手道 劉雅甄 W1W2, 9
+跆拳道 戴偉國 F7F8, 8
+SUP 立式划槳 陳國華 M5M6, 1
+高爾夫球 謝文偉 M3M4, 1
+排球 施惠方 R7R8, 1
+排球 邱得全 M1M2, 1
+![[Screenshot 2024-02-16 at 8.30.06 PM.png]]
 
 Good Market (Final Good, Service / GDP)
 Labor Market (Wage)
