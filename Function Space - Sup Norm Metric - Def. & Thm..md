@@ -8,27 +8,31 @@ Def. Bounded Functions
 	- $d_{\rm sup}(f,\,g):=||f-g||_{\rm sup}$                { $||f||_{\rm sup}:=\sup\limits_{x\in X}\,|f(x)|\,$ }
 
 Prop.
-- $f\in\mathcal{C}_b(X)$ $\iff$ $||f||_{\rm sup}$ exists   { assume $f\neq\tilde{\varnothing}$ }
+- $f$ bounded $\iff$ $||f||_{\rm sup}$ exists   { assume $f\neq\tilde{\varnothing}$ }
 
-Thm. Cauchy Criterion
-- $f_{n}\to f$ uniformly $\iff$ $(f_{n})_{n \in \mathbb{N}}$ uniformly Cauchy  [[Function Space - Convergence, Bounded - Pf.#^899846|{Pf}]]
+---
+
+Def.
+- $(f_{n})_{n \in \mathbb{N}}\,$ pointwise bounded:  $\forall\,p\in X$:  $(f_{n}(p))_{n \in \mathbb{N}}$ bounded ( under $|\cdot|$ )
+- $(f_{n})_{n \in \mathbb{N}}\,$ uniformly bounded:
+	- $(f_{n})_{n \in \mathbb{N}}\,$ bounded ( under $||\cdot||_{\sup}$ )
+		- OR
+	- $\exists\,r >0$  s.t. $\forall\,n \in \mathbb{N}$:  $||f_{n}||_{\sup}=d(f_{n},\,\tilde{0})<r$
 
 Prop.
 - For $(f_{n})_{n \in\mathbb{N}}$ in $\mathcal{C}_{b}(X)$,  $f\in\mathcal{C}_{b}(X)$
-	- (1) $f_{n}\to f$ under $d_{\text{sup}}$ $\iff$ $f_{n}\to f$ uniformly
-	- (2) $(f_{n})_{n \in \mathbb{N}}$ Cauchy under $d_{\text{sup}}$ $\iff$ $(f_{n})_{n \in \mathbb{N}}$ uniformly Cauchy
-	- (3) $(f_{n})_{n \in \mathbb{N}}$ bounded under $d_{\text{sup}}$ $\iff$ $(f_{n})_{n \in \mathbb{N}}$ uniformly bounded
+	- (1) $f_{n}\to f$ uniformly $\iff$ $f_{n}\to f$ under $d_{\text{sup}}$
+	- (2) $(f_{n})_{n \in \mathbb{N}}$ uniformly Cauchy $\iff$ $(f_{n})_{n \in \mathbb{N}}$ Cauchy under $d_{\text{sup}}$
 
 Thm.
 - $\forall\,X$:  $\mathcal{C}_{b}(X)$ is complete metric space
          { $(f_{n})_{n \in \mathbb{N}}$ Cauchy under $d_{\text{sup}}$
-           $\implies$ $f_{n}\to f$ uniformly  $\land$  "$f\in\mathcal{C}_{b}(X)$"  [[Function Space - Convergence, Bounded - Pf.#^c2e716|{Pf}]]
+           $\implies$ $f_{n}\to f$ uniformly  $\land$  "$f\in\mathcal{C}_{b}(X)$"  [[Function Space - Convergence - Pf.#^c2e716|{Pf}]]
            $\implies$ $f_{n}\to f$ under $d_{\text{sup}}$                }
 Cor.
-- $f_{n}\to f$ under $d_{\text{sup}}$ $\iff$ $(f_{n})_{n \in \mathbb{N}}$ Cauchy under $d_{\text{sup}}$
+- $(f_{n})_{n \in \mathbb{N}}$ converges under $d_{\text{sup}}$ $\iff$ Cauchy under $d_{\text{sup}}$ $\implies$ bounded
 
-Rmk.
-- $(f_{n})_{n \in \mathbb{N}}$ Cauchy under $d_{\text{sup}}$ $\implies$ bounded under $d_{\text{sup}}$
+---
 
 Extra.
 - Let

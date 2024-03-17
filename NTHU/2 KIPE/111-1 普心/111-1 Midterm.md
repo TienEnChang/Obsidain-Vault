@@ -1,14 +1,14 @@
 
 ### Definitions
 
-| Notion       | Def                                                        |     |
-| ------------ | ---------------------------------------------------------- | --- |
-| Memory       | the encoding, storage, retrieval of info                   | ![[Memory.png\|200]]    |
-| Learning     | the self-conducted relatively permanent change in behavior | ![[Learning.png\|200]]    |
-| Sensation    | the activation of sense organs                             | ![[Sens & Perc.png\|200]]    |
-| Perception   | the interpretation of sensation                            |  ...   |
-| Development  | the pattern of the growing process through life            | ![[Development.jpeg\|200]]    |
-| Intelligence | the capacity to understand & use resources effectively     | ![[Intelligence.png\|200]]    |
+| Notion       | Def                                                        |                            |
+| ------------ | ---------------------------------------------------------- | -------------------------- |
+| Memory       | the encoding, storage, retrieval of info                   | ![[Memory.png\|200]]       |
+| Learning     | the self-conducted relatively permanent change in behavior | ![[Learning.png\|200]]     |
+| Sensation    | the activation of sense organs                             | ![[Sens & Perc.png\|200]]  |
+| Perception   | the interpretation of sensation                            | ...                        |
+| Development  | the pattern of the growing process through life            | ![[Development.jpeg\|200]] |
+| Intelligence | the capacity to understand & use resources effectively     | ![[Intelligence.png\|200]] |
 
 ### Chapters
 

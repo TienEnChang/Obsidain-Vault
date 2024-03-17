@@ -15,4 +15,7 @@ $\therefore$  $\mathcal{C}^{0}(X)\subseteq\mathcal{C}^{b}(X)$
 (2)
 Let $f \in\mathcal{C}^{b}(X)$  with  $(f_{n})_{n \in \mathbb{N}}$ in $\mathcal{C}^{0}(X)$  s.t. $f_{n}\to f\,$ under $d_{\sup\,}$ { limit point }
 
-.   $\implies$ By Thm. $f \in\mathcal{C}^{0}(X)$
+   $\implies$ By Thm. $f \in\mathcal{C}^{0}(X)$
+
+Pf. { no $||\cdot||_{\sup}$ is required, since only for "continuous" } ^b505aa
+- ![[Screenshot 2024-03-12 at 3.32.18 PM.png]]

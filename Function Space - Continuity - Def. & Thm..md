@@ -17,8 +17,8 @@ Def.
 - smooth functions:       $\mathcal{C}^{\infty}(X)$                { $\mathcal{C}^{0}(X)\supseteq \cdots\supseteq \mathcal{C}^{\infty}(X)$ }
 
 Thm.
-- For $f_{n}\to f\,$ uniformly,
-	- $f_{n}$ continuous at $x_{0}$  $\forall\,n \in \mathbb{N}$ $\implies$ $f$ continuous at $x_{0}$
+- For $f_{n}\to f\,$ uniformly, ( not requiring $d_{\sup\,}$ )
+	- $f_{n}$ continuous at $x_{0}$  $\forall\,n \in \mathbb{N}$ $\implies$ $f$ continuous at $x_{0}$  [[Function Space - Sup Norm Metric - Pf.#^b505aa|{Pf}]]
 Cor. ^72f966
 - $X$ compact:  $\mathcal{C}^{0}(X)$ closed $\subseteq \mathcal{C}_{b}(X)$  { $\mathcal{C}^{0}(X)$ complete metric space } [[Function Space - Sup Norm Metric - Pf.#^8d7f04|{Pf}]]
 
@@ -43,8 +43,8 @@ Thm. Generalized Heine-Borel
 - $X$ compact  $\land$  $\mathscr{F}\subseteq\mathcal{C}^{0}(X)\subseteq \mathcal{C}_{b}(X)$
 - $\implies$ 
 	- $\mathscr{F}$ is compact $\iff$ $\mathscr{F}$ is (1) closed
-	                           (2) bounded
-	                           (2) equi-continuous  [[Function Space - Continuity - Pf.#^0f3a2b|{Pf}]]
+							$\;\;\;\;$(2) bounded
+	                        $\;\;\;\;$(3) equi-continuous  [[Function Space - Continuity - Pf.#^0f3a2b|{Pf}]]
 
 Lemma.
 - $X$ compact $\implies$ $\exists \,U\subseteq X$  countable, dense
@@ -54,7 +54,7 @@ Lemma.
 
 \[ Metric Space & $\mathcal{C}^{0}(\mathbb{R})$, $\mathcal{C}^{1}(\mathbb{R})$ ]
 
-Thm. The Mean Value Thm.
+Thm. The Mean Value Thm. { equi-continuous  }
 (#1)  $\,f$ is continuous on $[a,b]$
 (#2)  $f$ is differentiable on $(a,b)$
 	  $\implies$

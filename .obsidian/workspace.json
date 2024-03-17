@@ -8,134 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c189fbdcfbba35c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "The Defying System.canvas",
-                "viewState": {
-                  "x": 89.83606180043851,
-                  "y": 180.4135393347954,
-                  "zoom": -0.137047891219457
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "bb64c1d7f07d517e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latex Suite - Snippet.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "94f95363c2f126f5",
+            "id": "3a9ef7161ec5b447",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "151a8baacb0a07e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f12964266b1273c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39d5c2f1e30c6068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39aa6c6831af82e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saved.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97958a6375df83c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Done.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15f5566b7b9f6988",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archived.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc3d05b07ea48e7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saved.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +42,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -172,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "112-2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -181,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -281,104 +156,56 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "floating": {
-    "id": "39cb55316ee7fa59",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9a63e51c2043e52c",
-        "type": "window",
-        "children": [
-          {
-            "id": "d49fc32a616b64ed",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1bbd41c2f575dbb9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Untitled 2.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "20f4131efc338254",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Neuroscience.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 600,
-        "height": 781.588623046875,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "1bbd41c2f575dbb9",
+  "active": "3a9ef7161ec5b447",
   "lastOpenFiles": [
-    "Saved.md",
-    "Untitled 2.md",
-    "Guidline.md",
-    "Archived.md",
-    "Neuroscience.md",
-    "Temp.md",
-    "Done.md",
-    "Untitled 3.md",
-    "Untitled 4.md",
-    "References.md",
-    "Untitled.md",
-    "Literature R.md",
-    "NTHU/1 MATH/112-1 高等微積分.md",
-    "Function Space - Sup Norm Metric - Def. & Thm..md",
-    "Real numbers - Def. & Thm..md",
-    "Function Space - Convergence, Bounded - Def. & Thm..md",
-    "Theory.md",
-    "NTHU/1 MATH/112-1 機率論.md",
-    "112-2 統計學.md",
-    "Screenshot 2024-02-08 at 4.54.42 PM.png",
-    "- Assets/Quick note.md",
-    "112-2 機率論.md",
-    "Screenshot 2024-02-20 at 2.43.04 PM.png",
-    "Screenshot 2024-02-20 at 2.32.10 PM.png",
-    "Screenshot 2024-02-20 at 2.31.54 PM.png",
-    "Screenshot 2024-02-20 at 2.01.02 PM.png",
-    "Screenshot 2024-02-20 at 1.58.11 PM.png",
-    "Screenshot 2024-02-20 at 1.57.54 PM.png",
-    "Screenshot 2024-02-20 at 1.57.02 PM.png",
-    "Screenshot 2024-02-20 at 1.47.06 PM.png",
-    "Screenshot 2024-02-20 at 1.56.21 PM.png",
-    "NTHU/2 ECON/112-1 個體經濟.md",
-    "Utility Function, Budget Line, Lagrangian.md",
-    "Demand Function.md",
-    "Common Utility Function.md",
-    "Function Space - Series - Def. & Thm..md",
-    "The Defying System.canvas",
-    "IntroMBE_Topic06_ResearchPublication_Autumn2023.pdf",
-    "Prob - Mid1.pdf",
-    "Adv Calc - PM 2-1 2-2.pdf",
-    "Adv Cal - Mid1.pdf",
-    "EEG Guideline_compressed.pdf",
-    "高微演習 - 預習 1.pdf",
-    "Obsidian-Vault",
+    "NTHU/X/111-2 語言學.md",
+    "NTHU/X/111-1 互影/互影程設 - 金額.md",
+    "NTHU/X/111-1 互影/試做紀錄/Screen Shot 2022-10-10 at 9.06.10 AM.png",
+    "NTHU/X/111-1 互影/試做紀錄/Screen Shot 2022-10-07 at 4.35.59 PM.png",
+    "NTHU/X/111-1 互影/試做紀錄",
+    "NTHU/X/111-1 互影/Ideas/Idea 3.png",
+    "NTHU/X/111-1 互影/Ideas/Idea 2.png",
+    "NTHU/X/111-1 互影/Ideas/Idea 1.png",
+    "NTHU/X/111-1 互影/Ideas",
+    "NTHU/X/111-1 互影/NFT 炒作手法.md",
+    "NTHU/X/111-1 互影/- 藝設.md",
+    "NTHU/X/111-1 互影/Pics/var : let : const.png",
+    "NTHU/X/111-1 互影/Pics",
+    "NTHU/X/111-1 互影/藝術 & 公共利益.md",
+    "NTHU/X/111-1 互影/Q&A.md",
+    "NTHU/X/111-1 互影/Ideas 10.7.md",
+    "NTHU/X/111-1 互影/Ideas 10.21.md",
+    "NTHU/X/111-1 互影",
     "NTHU/X",
-    "NTHU/SC 夏季學院",
-    "NTHU/FL & CL",
+    "NTHU/2 ECON/111-2 經原.md",
+    "NTHU/2 ECON/111-2 會計.md",
+    "NTHU/2 ECON/111-1 會計/會計筆記(無日期1).md",
+    "NTHU/2 ECON/111-1 會計/6-2 Tax.md",
+    "NTHU/2 ECON/111-1 會計/手寫報表1.md",
+    "NTHU/2 ECON/111-1 會計/- Inventory System.md",
+    "NTHU/2 ECON/111-1 會計/Note - Equation.md",
+    "NTHU/2 ECON/111-1 會計/6-3 Appendix.md",
+    "NTHU/2 ECON/111-1 會計/6-1 Inventory.md",
+    "NTHU/2 ECON/111-1 會計/Note - Deferral & Accural.md",
+    "NTHU/2 ECON/111-1 會計/Pics/Screenshot 2023-01-11 at 9.54.21 AM.png",
+    "NTHU/2 ECON/111-1 會計/Pics/Screenshot 2023-01-10 at 8.14.09 PM.png",
+    "NTHU/2 ECON/111-1 會計/Pics/Screenshot 2023-01-10 at 6.01.36 PM.png",
+    "NTHU/2 ECON/111-1 會計/Pics/Screenshot 2023-01-11 at 9.51.59 AM.png",
+    "NTHU/2 ECON/111-1 會計/Pics",
+    "NTHU/2 ECON/111-1 會計/Mid 1-2/11.29.md",
+    "NTHU/2 ECON/111-1 會計/Mid 1-2/11.09.md",
+    "NTHU/2 ECON/111-1 會計/Mid 1-2",
+    "NTHU/2 ECON/111-1 會計/- Translation 1.md",
+    "NTHU/2 ECON/111-1 會計/Note - Accounting Cycle.md",
+    "NTHU/2 ECON/111-1 會計/$ Translation 2.md",
+    "NTHU/2 ECON/111-1 會計/收起來/Intro.md",
+    "NTHU/2 ECON/111-1 會計/Hw/Midterm 1 審視.md",
+    "NTHU/2 ECON/111-1 會計/Hw/Homeworks.md",
+    "NTHU/2 ECON/111-1 會計/收起來",
+    "NTHU/2 ECON/111-1 會計/Hw",
+    "NTHU/2 ECON/111-1 會計",
+    "Map of Life.canvas",
+    "The Defying System.canvas",
     "Influencism.canvas",
     "Test.canvas",
     "Life.canvas"

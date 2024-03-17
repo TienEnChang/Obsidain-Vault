@@ -42,3 +42,11 @@ Data "Utilization"
 - prescriptive analysis
 	- optimization
 	- firm decisions, resource allocation
+
+{數據科學}
+![[Screenshot 2024-02-29 at 10.23.28 PM.png|200]]|![[Screenshot 2024-02-29 at 10.23.33 PM.png|200]]|![[Screenshot 2024-02-29 at 10.23.38 PM.png|200]]
+
+
+![[Screenshot 2024-02-29 at 11.15.40 PM.png]]
+![[Screenshot 2024-02-29 at 11.13.58 PM.png]]
+![[Screenshot 2024-02-29 at 11.14.20 PM.png]]![[Screenshot 2024-02-29 at 11.15.21 PM.png]]![[Screenshot 2024-02-29 at 11.17.49 PM.png]]

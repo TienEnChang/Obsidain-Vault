@@ -26,7 +26,8 @@ Def. Real Numbers as Metric Space
 
 \[ Properties: Complete ]
 
-Thm. $\mathbb{R}$ is complete "metric space" { also $\mathbb{R}^n$ }  [[Real Numbers - Pf.#^c4c8fb|{Pf}]]
+Thm.
+- $\mathbb{R}$ is complete "metric space" { also $\mathbb{R}^n$ }  [[Real Numbers - Pf.#^c4c8fb|{Pf}]]
 
 
 \[ Properties: Bounded, Monotone ]

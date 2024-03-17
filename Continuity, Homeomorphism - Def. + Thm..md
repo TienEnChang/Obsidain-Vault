@@ -45,11 +45,17 @@ Thm. using ball (general)
 - $f$ is continuous
 - $\iff$
 - $\forall\,p\in X$  $\forall\,\varepsilon>0$  $\exists\,\delta>0$  s.t. ${B_{\delta}}^X(p)\subseteq f^{\leftarrow}({B_{\varepsilon}}^Y(f(p)))$  [[Continuity, Homeomorphism - Pf.#^2fe0de|{Pf}]]
+	- OR
+- $\forall\,x\in X$  $\forall\,\varepsilon>0$  $\exists\,\delta>0$  s.t.  $\forall\,y\in X\,$ with $|x-y|<\delta$:  $|f(x)-f(y)|<\varepsilon$
+	- OR
+- $\forall\,x\in X$:  $\lim\limits_{t\to x}f(t)=f(x)$
 
 Thm. using seqeunce (strict)
 - $f$ is continuous
 - $\iff$
 - $\forall\,(p_n)_{n\in\mathbb{N}}$ in $X$ converges to $p\in X$:  $(f(p_n))_{n\in\mathbb{N}}$ converges to $f(p)$  [[Continuity, Homeomorphism - Pf.#^c823a8|{Pf}]]
+	- OR
+- $\forall\,x\in X$:  $\lim\limits_{n\to \infty}f(x_{n})=f(x)$  for any  $(x_{n})_{n \in \mathbb{N}}$ converges to $x$
 
 Thm.
 - $m_a:X\to\mathbb{R}$  by  $m_a(x)\coloneqq d(a,\,x)$  is continuous  [[Continuity, Homeomorphism - Pf.#^02ea6b|{Pf}]]
@@ -59,10 +65,16 @@ Thm.
 
 Def. uniformly continuous
 - $\forall\,\varepsilon>0$  $\exists\,\delta>0$  s.t. $\forall\,x\in X$:  ${B_{\delta}}^X(x)\subseteq f^{\leftarrow}({B_{\varepsilon}}^Y(f(x)))$
+	- OR
+- $\forall\,\varepsilon>0$  $\exists\,\delta>0$  s.t. $\forall\,x,\,y \in X\,$ with $\,|x-y|<\delta$:  $|f(x)-f(y)|<\varepsilon$
 
 Thm.
 - For $f:X\to Y$ uniformly continuous,
 	- $(p_n)_{n\in\mathbb{N}}$ Cauchy in $X$ $\implies$ $(f(p_n))_{n\in\mathbb{N}}$ Cauchy in $Y$  [[Continuity, Homeomorphism - Pf.#^5da1a9|{Pf}]]
+
+Extra.
+- $Y$ complete  $\land$  $f:X\to Y$ uniformly continuous on $A\subseteq X$
+	- $\implies$ $f$ continuous on $\text{Cl}_{X}(A)$  {Pf?}
 
 ---
 
@@ -78,13 +90,6 @@ Cor.
 
 Thm. (vector space op.)
 - $+:\mathbb{R}^n\times\mathbb{R}^n\to\mathbb{R}^n$  and  $\cdot:\mathbb{R}\times\mathbb{R}^n\to\mathbb{R}^n$  are continuous  [[Continuity, Homeomorphism - Pf.#^266223|{Pf}]]
-
-Cor.
-- For $f:\mathbb{R}\to\mathbb{R}$,
-	- $f$ is continuous
-	- $\iff$ $\forall\,c\in \mathbb{R}$:  $\forall\,\varepsilon>0$  $\exists\,\delta>0$ 
-	                  s.t.  $\forall\,x\in\mathbb{R}$:  $|x-c|<\delta$ $\implies$ $|f(x)-f(c)|<\varepsilon$
-	- $\iff$ $\forall\,c\in \mathbb{R}$:  $\lim\limits_{x\to c}f(x)=f(c)$
 
 Cor. $\sin$, $\cos$, $\tan$, ${\rm arc}\ldots$, $\exp$, $\ln$ are continuous
 

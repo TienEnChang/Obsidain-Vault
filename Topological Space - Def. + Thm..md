@@ -19,14 +19,6 @@ Prop.
 
 ---
 
-continuous: $\lim\limits_{x\to c}f(x)=f(c)$
-
-
-$\lim\limits_{x\to c}f(x)=f(c)$
-
-
-
-
 \[ Properties ]
 
 Def.

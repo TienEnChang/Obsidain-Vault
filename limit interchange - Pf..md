@@ -1,0 +1,10 @@
+.
+
+Pf. ^3d634a
+![[IMG_493CAB36F456-1.jpeg]]
+
+Pf. ^4c301e
+![[IMG_48C55E7545C4-1.jpeg]]
+
+Pf. ^51c022
+![[IMG_28812A21BF89-1.jpeg]]

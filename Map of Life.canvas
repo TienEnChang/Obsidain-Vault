@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"a76dc876a4a36ebe","type":"text","text":"Q. What value / help can I provide?\n- I'm dedicated to assisting people in shaping better \"decisions and behaviors\".\n- By \"better\", I mean those that can effectively serve both individual / organizational interests and the collective welfare of the society.\n- Using \"data-proven, data-driven\" methods and tools.\n\n\n\n","x":-391,"y":680,"width":820,"height":220},
+		{"id":"d8e975cf9db5d603","type":"text","text":"Q. Which types of methods?\n- data generation\n\t- lab experiment\n\t- computer simulation\n\t\t- Monte Carlo simulation\n\t\t- Agent-based simulation\n- data analysis\n\t- statistics:\n\t\t- Bayesian inference\n\t\t- regression\n\t- machine learning\n\t\t- supervised learning\n\t\t\t- SVM\n\t\t\t- classification\n\t\t- unsupervised learning ★\n\t\t\t- clustering\n\t\t- reinforcement / deep learning ★\n\t\t\t- Markov chain, Markov decision processes\n\t\t\t- Monte Carlo tree search (MCTS)\n\t\t\t- Deep Q-Networks (Q-learning)\n\t\t\t- Policy Gradient Methods \n- data utilization\n\t- optimization, duality\n\t\t- linear programming: simplex method\n\t\t- integer programming: graph theory, network flow model\n\t\t- non-linear programming\n\t\t\t- unconstrained: convex analysis\n\t\t\t- constrained: lagrangian relaxation\n\nQ. Why learn the theories?\n- (x) be able to apply / use these models, tools\n- (v) be able to design / develop better models","x":19,"y":960,"width":741,"height":1040},
+		{"id":"4cc7c98e53f54508","type":"text","text":"Q. Which types of people?\n- individuals\n\t- neuroscience\n\t- psychology:\n\t\t- affective psy.\n\t\t- cognitive psy.\n\t- mirco economics\n- organizations\n\t- management\n\t- operations research\n\t- mirco economics\n- society\n\t- psychology: social psy.\n\t- macro economics\n\t- game theory\n\nQ. Name of this interdisciplinary field?\n- behavioral science\n- decision science","x":-600,"y":960,"width":540,"height":645},
+		{"id":"ee6bce957c873ab0","type":"text","text":"112-2 統計學\n- Bayesian statistics\n- Monte Carlo simulation","x":860,"y":960,"width":360,"height":160},
+		{"id":"938396bbcbd8d98a","type":"text","text":"112-2 資料科學與數據分析\n- supervised learning\n- unsupervised learning\n- reinforcement / deep learning","x":860,"y":1270,"width":420,"height":190},
+		{"id":"a6d0683966cc9bc6","type":"file","file":"SWOT-explained.png","x":-221,"y":235,"width":400,"height":400},
+		{"id":"e7e89bcb1843f2cc","type":"text","text":"Strategic Decisions","x":-221,"y":140,"width":323,"height":50},
+		{"id":"78bdb3eae145805b","type":"text","text":"112-2 高等微積分\n- basics of mathematics\n- optimization","x":19,"y":2100,"width":320,"height":140},
+		{"id":"07953b03c74a2c8f","type":"text","text":"112-2 線性代數\n- basics of mathematics\n- machine learning\n- Markov chain, Markov decision processes\n- SVM","x":400,"y":2100,"width":460,"height":220},
+		{"id":"1390eb85bda707e9","type":"text","text":"112-1 高等微積分","x":19,"y":2290,"width":250,"height":60},
+		{"id":"833796eaad820ccd","type":"text","text":"112-1 線性代數","x":400,"y":2350,"width":250,"height":60},
+		{"id":"174d368aead68b4e","type":"file","file":"Screenshot 2024-03-01 at 4.36.32 PM.png","x":1340,"y":1270,"width":332,"height":400},
+		{"id":"7ba7c44db7be4a5f","type":"text","text":"112-2 機器學習 (旁聽)","x":1340,"y":1155,"width":260,"height":70},
+		{"id":"d058af32db2c478d","type":"text","text":"?? 博弈論 Game Theory","x":-960,"y":1555,"width":260,"height":50},
+		{"id":"3d93aabeebd3b91d","type":"text","text":"111-2 數理經濟學 (旁聽)","x":-479,"y":1860,"width":298,"height":60},
+		{"id":"09f8365cea69d191","type":"text","text":"Q. Goal: to become\n- 自己喜歡的人 (like)\n- 厲害的人 (admire / look up to >> proud)\n- 有用的人 (help / contribute)","x":-800,"y":260,"width":480,"height":220},
+		{"id":"078ceab1cff7ca24","type":"file","file":"Screenshot 2024-03-01 at 5.05.36 PM.png","x":-530,"y":2133,"width":400,"height":154},
+		{"id":"42cc21e7e44b5fdc","type":"file","file":"Screenshot 2024-03-01 at 5.04.39 PM.png","x":-530,"y":1993,"width":399,"height":89},
+		{"id":"8ba46f5ed9a10008","type":"file","file":"Screenshot 2024-03-01 at 5.05.57 PM.png","x":-530,"y":2313,"width":400,"height":261},
+		{"id":"3f9a9f14ead4f49c","type":"text","text":"111-2 個體經濟學\n- (v) frims (x) consumer\n- price and output determination of firms\n- perfect competition model","x":-930,"y":1680,"width":330,"height":250},
+		{"id":"5e0772ee283eb6f7","type":"text","text":"Q. Outcome? Obsidian Notes","x":-398,"y":1650,"width":338,"height":60},
+		{"id":"46d09a6a34cc7d14","type":"file","file":"Screenshot 2024-03-01 at 5.14.29 PM.png","x":-992,"y":1960,"width":392,"height":400},
+		{"id":"026c19e37fd03887","x":1320,"y":960,"width":237,"height":50,"type":"file","file":"NTHU/1 MATH/112-1 機率論.md"}
+	],
+	"edges":[]
+}

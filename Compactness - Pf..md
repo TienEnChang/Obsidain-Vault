@@ -1,12 +1,11 @@
 ..
 
 Pf. ^4d8ad2
-- 
-	![[Screenshot 2023-12-07 at 12.13.31 AM.png]]![[Screenshot 2023-12-07 at 12.14.08 AM.png]]
+- brief:  $\exists$ finite subcover $\big\{B_{\delta_{x_{i}}}(x_{i})\big\}_{i=1}^{m}$ $\implies$ $\exists\,\min\,\big\{\delta_{x_{i}}\big\}_{i=1}^{m}$  irresp. of $\,x$
+	![[Screenshot 2023-12-07 at 12.13.31 AM.png]]![[Screenshot 2023-12-07 at 12.14.08 AM.png]]
 
 Pf. ^ecc010
-- 
-	![[2023_12_07 下午2_25 Office Lens.jpg]]
+- ![[2023_12_07 下午2_25 Office Lens.jpg]]
 
 Pf. ^869e8f
 - 

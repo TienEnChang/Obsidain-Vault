@@ -45,7 +45,7 @@ Def. change of coordinate matrix: $[I_V]_\beta^{\beta'}$
 
 Thm. $\forall\,x\in V$:  $[x]_{\beta'}=[I_V]_\beta^{\beta'}[x]_\beta$
 
-Thm. $\forall\,T\in\mathcal{L}(V,\,V)$:  $[T]_{\beta'}=([I_V]_\beta^{\beta'})\cdot [T]_\beta\cdot([I_V]_\beta^{\beta'})^{-1}$  {conjugate}
+Thm. $\forall\,T\in\mathcal{L}(V,\,V)$:  $[T]_{\beta'}=([I_V]_{\beta'}^{\beta})^{-1}\cdot [T]_\beta\cdot([I_V]_{\beta'}^{\beta})$  {conjugate}
 
 Calc.
 - $[x]_e=[I_V]_\beta^e[x]_\beta$  where  $e$ is the standard basis of $V$

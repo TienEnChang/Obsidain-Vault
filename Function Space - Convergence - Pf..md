@@ -37,5 +37,5 @@ $\implies$ (1)  $\forall\,\varepsilon>0$  $\exists\,N_{\varepsilon}\in\mathbb{N}
 $\implies$ $\forall\,x \in X$:  $\forall\,\varepsilon>0$
      $\exists\,N_{x,\,\varepsilon}\in\mathbb{N}$  $\exists\,m_{x}\geq \max\,\{N_{x,\,\varepsilon},\,N_{\varepsilon}\}$  s.t.  $|f_{m_{x}}(x)-f(x)|<\dfrac{\varepsilon}{2}$
 
-$\implies$ $\forall\,n\geq N_{\varepsilon}$  $\forall\,x \in X$:  $|f_n(x)-f(x)|\leq|f_n(x)-f_{m}(x)|+|f_{m_{x}}(x)-f(x)|<\varepsilon$
+$\implies$ $\forall\,n\geq N_{\varepsilon}$  $\forall\,x \in X$:  $|f_n(x)-f(x)|\leq|f_n(x)-f_{m_{x}}(x)|+|f_{m_{x}}(x)-f(x)|<\varepsilon$
      { i.e. $(f_{n})_{n \in \mathbb{N}}$ converges uniformly }

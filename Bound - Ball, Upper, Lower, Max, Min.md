@@ -4,10 +4,14 @@
 Let $X$ be metric spaces with $d$
 
 Def.
-- $A\subseteq X$ bounded:   $A\subseteq B_{r}(p)$  for some  $p\in X$  $r>0$ 
+- $A\subseteq S$ bounded:
+	- $\exists\,\xi \in S$  $\exists\,r>0$  s.t. $\,A\subseteq B_{r}(\xi)$  { i.e. $\forall\,a \in A$: $\,d(a,\,\xi)<r$ }
 	
-- $(p_{n})_{n \in\mathbb{N}}$ bounded:  $\{p_{n}\}_{n \in\mathbb{N}}$ bounded
-- $f$ bounded:        $\text{rng}(f)$ bounded
+- $(p_{n})_{n \in\mathbb{N}}$ bounded:
+	- $\text{rng}((p_{n})_{n \in\mathbb{N}})=\{p_{n}\}_{n \in\mathbb{N}}$ bounded  { i.e. $\,\forall\,n \in \mathbb{N}$: $\,d(p_{n},\,\xi)<r$ }
+	
+- $f$ bounded:
+	- $\text{rng}(f)$ bounded  { i.e. $\,\forall\,x \in X$: $\,d(f(x),\,\xi)<r$ }
 
 
 \[ In Posets ]

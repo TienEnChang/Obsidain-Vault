@@ -5,6 +5,7 @@ Def.
 - Lipschitz map:         [[ODE#^73cd32|{ uniformly continuous }]]
 	- $f:X\to Y$  where
 	- $\exists\,L\geq0$  s.t.  $\forall\,x,\,y\in X$:  $d_{Y}(f(x),\,f(y))\leq L\,d_{X}(x,\,y)$
+	  { Lipschitz constant }
 
 Thm. ODE's existence & uniqueness Thm.
 - $U$ open $\subseteq \mathbb{R}^{n}$,  $p \in U$  $\land$  $F:U\to\mathbb{R}^{n}$  Lipschitz with  $L$
@@ -23,7 +24,7 @@ Rmk.
 	- $\overline{\mathscr{F}}$  compact but  $\mathscr{F}$ "not" closed $\subseteq\mathcal{C}^{0}([0,\,1])$
 
 Thm.
--  ![[Screenshot 2024-01-05 at 12.35.03 AM.png]]
+-  ![[Screenshot 2024-01-05 at 12.35.03 AM.png]]
 
 
 Pf. ^73cd32

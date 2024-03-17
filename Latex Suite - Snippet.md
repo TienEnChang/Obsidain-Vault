@@ -36,6 +36,9 @@
 	{trigger: "point.", replacement: "pointwise ", options: "tA"},
 	{trigger: "equi.", replacement: "equi-continuous ", options: "tA"},
 	{trigger: "exp.", replacement: "exponential ", options: "tA"},
+	{trigger: "int.", replacement: "integrable ", options: "tA"},
+
+	{trigger: "DNE", replacement: "D.N.E.", options: "tA"},
 
 	// mA
 
@@ -102,7 +105,7 @@
     {trigger: "norm", replacement: "||$0||$1", options: "mA", priority: 1},
     {trigger: "abs", replacement: "|$0|", options: "mA", priority: 1},
 
-    {trigger: "cd", replacement: "\\cdot $0", options: "mA", priority: 1},
+    {trigger: "dd", replacement: "\\cdot $0", options: "mA", priority: 1},
     {trigger: "hd", replacement: "\\cdots $0", options: "mA", priority: 1},
     {trigger: "vd", replacement: "\\vdots $0", options: "mA", priority: 1},
     {trigger: "dd", replacement: "\\ddots $0", options: "mA", priority: 1},
@@ -121,8 +124,8 @@
     {trigger: "oo", replacement: "\\infty$0", options: "mA", priority: 1},
     {trigger: "\\inf", replacement: "\\inf$0", options: "mA", priority: 1},
     {trigger: "sup", replacement: "\\sup$0", options: "mA", priority: 1},
-    {trigger: "max", replacement: "\\max\\,$0", options: "mA", priority: 1},
-    {trigger: "min", replacement: "\\min\\,$0", options: "mA", priority: 1},
+    {trigger: "max", replacement: "\\max$0", options: "mA", priority: 1},
+    {trigger: "min", replacement: "\\min$0", options: "mA", priority: 1},
     {trigger: "rng", replacement: "\\text{rng}($0)", options: "mA", priority: 1},
     {trigger: "dom", replacement: "\\text{dom}($0)", options: "mA", priority: 1},
     {trigger: "cod", replacement: "\\text{cod}($0)", options: "mA", priority: 1},
@@ -138,7 +141,7 @@
     {trigger: "'/", replacement: "\\frac{$0}{$1}", options: "mA", priority: 1},
 	{trigger: "bar", replacement: "\\overline{$0}$1", options: "mA", priority: 1},
 	{trigger: "circ", replacement: "\\circ$0", options: "mA"},
-	{trigger: "cho", replacement: "{\\displaystyle $0\\choose $1}", options: "mA", priority: 1},
+	{trigger: "cho", replacement: "{\\displaystyle{ $0\\choose $1}}", options: "mA", priority: 1},
 
 	{trigger: "!=", replacement: "\\neq", options: "mA"},
 	{trigger: ">=", replacement: "\\geq", options: "mA"},
@@ -171,7 +174,7 @@
 	{trigger: ":E", replacement: "\\varepsilon", options: "mA"},
 	{trigger: "@z", replacement: "\\zeta", options: "mA"},
 	{trigger: "@Z", replacement: "\\zeta", options: "mA"},
-	{trigger: "@t", replacement: "\\theta", options: "mA"},
+	{trigger: "the", replacement: "\\theta", options: "mA"},
 	{trigger: "@T", replacement: "\\Theta", options: "mA"},
 	{trigger: "@k", replacement: "\\kappa", options: "mA"},
 	{trigger: "@K", replacement: "\\kappa", options: "mA"},
@@ -282,7 +285,7 @@
 	{trigger: "=<", replacement: "\\impliedby", options: "mA"},
 	{trigger: "iff", replacement: "\\iff", options: "mA"},
 	{trigger: "e\\xi sts", replacement: "\\exists", options: "mA", priority: 1},
-	{trigger: "===", replacement: "\\equiv", options: "mA"},
+	{trigger: "eq", replacement: "\\equiv", options: "mA"},
 	{trigger: "Sq", replacement: "\\square", options: "mA"},
 	{trigger: "nabl", replacement: "\\nabla", options: "mA"},
 	{trigger: "xx", replacement: "\\times", options: "mA"},
