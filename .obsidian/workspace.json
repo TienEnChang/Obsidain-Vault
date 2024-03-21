@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a5d9e3b2d95825f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Q. overloaded.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae755158597e1ac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "112-2 線性代數.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c3ed7020a373493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "112-2 統計學.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stat.md",
+                "file": "112-2 機器學習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stat.md",
+                "file": "112-2 機器學習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stat.md"
+                "file": "112-2 機器學習.md"
               }
             }
           },
@@ -165,8 +201,18 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3a9ef7161ec5b447",
+  "active": "16a96264a864aca3",
   "lastOpenFiles": [
+    "112-2 統計學.md",
+    "Stat.md",
+    "112-2 個體經濟.md",
+    "112-2 線性代數.md",
+    "Q. overloaded.md",
+    "112-2 高等微積分.md",
+    "112-2 大專生研究計畫.md",
+    "NTHU/GE/112-1 環境與永續.md",
+    "Cayley-Hamilton.md",
+    "Latex Suite - Snippet.md",
     "NTHU/X/111-2 語言學.md",
     "NTHU/X/111-1 互影/互影程設 - 金額.md",
     "NTHU/X/111-1 互影/試做紀錄/Screen Shot 2022-10-10 at 9.06.10 AM.png",
@@ -194,22 +240,12 @@
     "NTHU/2 ECON/111-1 會計/- Inventory System.md",
     "NTHU/2 ECON/111-1 會計/Note - Equation.md",
     "NTHU/2 ECON/111-1 會計/6-3 Appendix.md",
-    "NTHU/2 ECON/111-1 會計/6-1 Inventory.md",
-    "NTHU/2 ECON/111-1 會計/Note - Deferral & Accural.md",
     "NTHU/2 ECON/111-1 會計/Pics/Screenshot 2023-01-11 at 9.54.21 AM.png",
     "NTHU/2 ECON/111-1 會計/Pics/Screenshot 2023-01-10 at 8.14.09 PM.png",
     "NTHU/2 ECON/111-1 會計/Pics/Screenshot 2023-01-10 at 6.01.36 PM.png",
     "NTHU/2 ECON/111-1 會計/Pics/Screenshot 2023-01-11 at 9.51.59 AM.png",
     "NTHU/2 ECON/111-1 會計/Pics",
-    "NTHU/2 ECON/111-1 會計/Mid 1-2/11.29.md",
-    "NTHU/2 ECON/111-1 會計/Mid 1-2/11.09.md",
     "NTHU/2 ECON/111-1 會計/Mid 1-2",
-    "NTHU/2 ECON/111-1 會計/- Translation 1.md",
-    "NTHU/2 ECON/111-1 會計/Note - Accounting Cycle.md",
-    "NTHU/2 ECON/111-1 會計/$ Translation 2.md",
-    "NTHU/2 ECON/111-1 會計/收起來/Intro.md",
-    "NTHU/2 ECON/111-1 會計/Hw/Midterm 1 審視.md",
-    "NTHU/2 ECON/111-1 會計/Hw/Homeworks.md",
     "NTHU/2 ECON/111-1 會計/收起來",
     "NTHU/2 ECON/111-1 會計/Hw",
     "NTHU/2 ECON/111-1 會計",

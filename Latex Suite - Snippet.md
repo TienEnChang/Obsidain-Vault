@@ -37,7 +37,8 @@
 	{trigger: "equi.", replacement: "equi-continuous ", options: "tA"},
 	{trigger: "exp.", replacement: "exponential ", options: "tA"},
 	{trigger: "int.", replacement: "integrable ", options: "tA"},
-
+	{trigger: "diag.", replacement: "diagonlizable ", options: "tA"},
+	
 	{trigger: "DNE", replacement: "D.N.E.", options: "tA"},
 
 	// mA
@@ -77,8 +78,11 @@
     
     {trigger: "bb", replacement: "\\mathbb{$0}", options: "mA"},
     {trigger: "cal", replacement: "\\mathcal{$0}", options: "mA"},
+    {trigger: "bd", replacement: "\\textbf{$0}", options: "mA"},
+    {trigger: "sf", replacement: "\\mathsf{$0}", options: "mA"},
+    
     {trigger: "scr", replacement: "\\mathscr{$0}", options: "mA"},
-    {trigger: "bf", replacement: "\\textbf{$0}", options: "mA"},
+    
     {trigger: "`", replacement: "\\text{$0}", options: "mA"},
     {trigger: "blue", replacement: "{\\color{ProcessBlue}$0}", options: "mA"},
     {trigger: "red", replacement: "{\\color{RubineRed}$0}", options: "mA"},
@@ -90,6 +94,8 @@
     {trigger: "bcup", replacement: "\\bigcup\\limits_{$0}", options: "mA", priority: 1},
     {trigger: "cap", replacement: "\\cap$0", options: "mA"},
     {trigger: "cup", replacement: "\\cup$0", options: "mA"},
+	
+	{trigger: "on", replacement: "\\begin{bmatrix}$0\\end{bmatrix}$1", options: "mA", priority: 1},
 
     {trigger: "mat", replacement: "\\begin{bmatrix}$0\\end{bmatrix}$1", options: "mA", priority: 1},
     {trigger: "cas", replacement: "\\begin{cases}$0\\end{cases}$1", options: "mA", priority: 1},
@@ -142,6 +148,8 @@
 	{trigger: "bar", replacement: "\\overline{$0}$1", options: "mA", priority: 1},
 	{trigger: "circ", replacement: "\\circ$0", options: "mA"},
 	{trigger: "cho", replacement: "{\\displaystyle{ $0\\choose $1}}", options: "mA", priority: 1},
+	{trigger: "std", replacement: "\\text{std}$0", options: "mA", priority: 1},
+	{trigger: "idp", replacement: "{\\perp\\!\\!\\!\\perp} $0", options: "mA", priority: 1},
 
 	{trigger: "!=", replacement: "\\neq", options: "mA"},
 	{trigger: ">=", replacement: "\\geq", options: "mA"},

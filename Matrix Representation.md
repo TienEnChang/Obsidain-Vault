@@ -66,5 +66,5 @@ Def.
 - Kronecker delta:  $\delta_{ij}\coloneqq\begin{cases}1&{\rm if}\;i=j\\ 0 & {\rm o.w.}\end{cases}$  ^c3952a
 
 - multiplication trans: left vs. right
-	![[Screenshot 2023-11-22 at 2.56.14 PM.png]]
-	![[Screenshot 2023-11-22 at 2.56.31 PM.png]]
+	![[Screenshot 2023-11-22 at 2.56.14 PM.png]]
+	![[Screenshot 2023-11-22 at 2.56.31 PM.png]]
